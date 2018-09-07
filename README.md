@@ -32,7 +32,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 29px;"><a href="https://www.researchgate.net/publication/272165853_Arabic_Semantic_relatedness_data_set">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Relatedness/Saif40_Ar.csv">link2</a></td>
 </tr>
 <tr>
-<td style="width: 55px;">&nbsp;</td>
+<td style="width: 55px;" colspan="6" align="center">Englsih (EN)</td>
 <td style="width: 47px;">&nbsp;</td>
 <td style="width: 32px;">&nbsp;</td>
 <td style="width: 34px;">&nbsp;</td>
