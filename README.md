@@ -13,7 +13,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 29px;">Link</td>
 </tr>
 <tr>
-  <td style="width: 250px;" colspan="6" align="center"><b><i>Arabic (Ar)</td>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>Arabic (AR)</td>
 </tr>
 <tr>
 <td style="width: 55px;">Almarsoomi</td>
