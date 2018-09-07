@@ -18,9 +18,9 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <tr>
 <td style="width: 55px;">Almarsoomi</td>
 <td style="width: 47px;">70</td>
-<td style="width: 32px;">Sim</td>
-<td style="width: 34px;">&nbsp;</td>
-<td style="width: 23px;">&nbsp;</td>
+<td style="width: 32px;">2013</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;">(Almarsoomi et al., 2013)</td>
 <td style="width: 29px;">&nbsp;</td>
 </tr>
 <tr>
@@ -83,3 +83,4 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </table>
 
 # References
+Almarsoomi, F.A., O’Shea, J., Bandar, Z., Crockett, K.A., 2013. AWSS: An Algorithm for Measuring Arabic Word Semantic Similarity
