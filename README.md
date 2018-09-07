@@ -83,4 +83,6 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </table>
 
 # References
-Almarsoomi, F.A., O’Shea, J., Bandar, Z., Crockett, K.A., 2013. AWSS: An Algorithm for Measuring Arabic Word Semantic Similarity
+<ol>
+<li>Almarsoomi, F.A., O’Shea, J., Bandar, Z., Crockett, K.A., 2013. AWSS: An Algorithm for Measuring Arabic Word Semantic Similarity</li>
+</ol>
