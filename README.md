@@ -161,12 +161,12 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 250px;" colspan="6" align="center"><b><i>English (EN)</td>
 </tr>
 <tr>
-<td style="width: 55px;"></td>
-<td style="width: 47px;"></td>
-<td style="width: 32px;"></td>
-<td style="width: 34px;"></td>
-<td style="width: 23px;"></td>
-  <td style="width: 29px;"><a href="">link</a></td>
+<td style="width: 55px;">GTRD</td>
+<td style="width: 47px;">66</td>
+<td style="width: 32px;">2018</td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;">(Chen et al.,2018)</td>
+  <td style="width: 29px;"><a href="https://github.com/czgbjy/GTRD/blob/master/Geo-Terminology%20Relatedness%20Dataset/Geo-Terminology_Relatedness_Dataset_means.xlsx">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Geographic%20Datasets/English/Semantic%20Relatedness/GTRD_66_SR_EN.csv">link2</a></td>
 </tr>
 </tbody>
 </table>
@@ -183,4 +183,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Joubarne, C., Inkpen, D., 2011. Comparison of Semantic Similarity for Different Languages Using the Google n-gram Corpus and Second-Order Co-occurrence Measures, in: Advances Artificial Intelligence - 24th Canadian Conference Artificial Intelligence, Canadian AI 2011, St.John’s, Canada, May 25-27, 2011. Proceedings. pp. 216–221.</li>
   <li>S.V.S. Pakhomov, T. Pedersen, B. McInnes, G.B. Melton, A. Ruggieri, C.G. Chute: Towards a framework for developing semantic relatedness reference standards J Biomed Inform, 44 (2011), pp. 251-265</li>
   <li>Pakhomov, S., McInnes, B., Adam, T., Liu, Y., Pedersen, T., Melton, G.B., 2010. Semantic Similarity and Relatedness between Clinical Terms: An Experimental Study. AMIA Annual Symposium proceedings / AMIA Symposium. AMIA Symposium 2010, 572–576.</li>
+  <li>Zugang Chen, Jia Song and Yaping Yang: An Approach to Measuring Semantic Relatedness of Geographic Terminologies Using a Thesaurus and Lexical Database Sources, International Journal of Geo-Information, 2018.</li>
 </ol>
