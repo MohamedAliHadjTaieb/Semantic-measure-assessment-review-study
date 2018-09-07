@@ -73,18 +73,18 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 55px;" colspan="6" align="center"><b><i>German (DE)</td>
 </tr>
   <tr>
-<td style="width: 55px;">&nbsp;</td>
-<td style="width: 47px;">&nbsp;</td>
-<td style="width: 32px;">&nbsp;</td>
-<td style="width: 34px;">&nbsp;</td>
-<td style="width: 23px;">&nbsp;</td>
-<td style="width: 29px;">&nbsp;</td>
+<td style="width: 55px;">Gur</td>
+<td style="width: 47px;">350</td>
+<td style="width: 32px;">2005</td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;">(Gurevych, 2005)</td>
+    <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/Gur350_DE.csv">link2</a></td>
 </tr>
   <tr>
-<td style="width: 55px;">&nbsp;</td>
-<td style="width: 47px;">&nbsp;</td>
+<td style="width: 55px;">WordSim</td>
+<td style="width: 47px;">252</td>
 <td style="width: 32px;">&nbsp;</td>
-<td style="width: 34px;">&nbsp;</td>
+<td style="width: 34px;">Rel</td>
 <td style="width: 23px;">&nbsp;</td>
 <td style="width: 29px;">&nbsp;</td>
 </tr>
@@ -109,4 +109,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Miller, G.A., Charles, W.G., 1991. Contextual correlates of semantic similarity. Language & Cognitive Processes 6, 1–28.</li>
   <li>Wu, Y., Li, W., 2016. Overview of the NLPCC-ICCPOL 2016 Shared Task: Chinese Word Similarity Measurement, in: Natural Language Understanding Intelligent Applications - 5th CCF Conference Natural Language Processing Chinese Computing, NLPCC 2016, 24th International Conference Computer Processing Oriental Languages, ICCPOL2016, Kunming, China, December 26, 2016, Proceedings. pp. 828–839.</li>
   <li>Camacho-Collados, J., Pilehvar, M.T., Navigli, R., 2015. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets, in: ACL(2). The Association for Computer Linguistics, pp. 1–7.</li>
+  <li>Gurevych, I., 2005. Using the Structure of a Conceptual Network in Computing Semantic Relatedness, in: Natural Language Processing IJCNLP2005,Second International Joint Conference,Jeju Island, Korea, October 11-13,2005,Proceedings. pp. 767–778.</il>
 </ol>
