@@ -24,11 +24,11 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Similarity/Almarsoomi70.csv">link</a></td>
 </tr>
 <tr>
-<td style="width: 55px;">&nbsp;</td>
-<td style="width: 47px;">&nbsp;</td>
-<td style="width: 32px;">&nbsp;</td>
-<td style="width: 34px;">&nbsp;</td>
-<td style="width: 23px;">&nbsp;</td>
+<td style="width: 55px;">SaifAr</td>
+<td style="width: 47px;">40</td>
+<td style="width: 32px;">2014</td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;">(Saif et al., 2014)</td>
   <td style="width: 29px;"><a href="https://www.researchgate.net/publication/272165853_Arabic_Semantic_relatedness_data_set">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Relatedness/Saif40_Ar.csv">link2</a></td>
 </tr>
 <tr>
@@ -85,4 +85,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 # References
 <ol>
 <li>Almarsoomi, F.A., O’Shea, J., Bandar, Z., Crockett, K.A., 2013. AWSS: An Algorithm for Measuring Arabic Word Semantic Similarity</li>
+<li>Saif, A., Aziz, M.J.A., Omar, N., 2014. Evaluating knowledge-based semantic measures on Arabic. International Journal on Communications Antenna and Propagation 4, 180–194.</li>
 </ol>
