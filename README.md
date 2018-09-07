@@ -21,7 +21,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;">(Almarsoomi et al., 2013)</td>
-  <td style="width: 29px;">link</td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Similarity/Almarsoomi70.csv">link</a></td>
 </tr>
 <tr>
 <td style="width: 55px;">&nbsp;</td>
