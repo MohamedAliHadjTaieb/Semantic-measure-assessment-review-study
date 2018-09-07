@@ -111,6 +111,55 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </tr>
 </tbody>
 </table>
+  
+# Biomedical datasets
+  <table>
+<tbody>
+<tr>
+<td style="width: 55px;">Dataset</td>
+<td style="width: 47px;">|pairs|</td>
+<td style="width: 32px;">Year</td>
+<td style="width: 34px;">Type</td>
+<td style="width: 23px;">Ref</td>
+<td style="width: 29px;">Link</td>
+</tr>
+<tr>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>English (EN)</td>
+</tr>
+<tr>
+<td style="width: 55px;"></td>
+<td style="width: 47px;"></td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link</a></td>
+</tr>
+</tbody>
+</table>
+# Geographic datasets
+  <table>
+<tbody>
+<tr>
+<td style="width: 55px;">Dataset</td>
+<td style="width: 47px;">|pairs|</td>
+<td style="width: 32px;">Year</td>
+<td style="width: 34px;">Type</td>
+<td style="width: 23px;">Ref</td>
+<td style="width: 29px;">Link</td>
+</tr>
+<tr>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>English (EN)</td>
+</tr>
+<tr>
+<td style="width: 55px;"></td>
+<td style="width: 47px;"></td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link</a></td>
+</tr>
+</tbody>
+</table>
 
 # References
 <ol>
