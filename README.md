@@ -43,7 +43,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Chinese/Semantic%20Similarity/PKU500_CN.csv">link1</a><br><a href="https://github.com/commonsense/conceptnet5/blob/master/conceptnet5/support_data/pku-500/pku-500.csv">link2</a></td>
 </tr>
 <tr>
-<td style="width: 55px;" colspan="6" align="center"><b><i>Englsih (EN)</td>
+<td style="width: 55px;" colspan="6" align="center"><b><i>English (EN)</td>
 </tr>
 <tr>
 <td style="width: 55px;">RG</td>
