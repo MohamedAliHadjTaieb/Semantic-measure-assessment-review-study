@@ -32,15 +32,15 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 29px;"><a href="https://www.researchgate.net/publication/272165853_Arabic_Semantic_relatedness_data_set">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Relatedness/Saif40_Ar.csv">link2</a></td>
 </tr>
     <tr>
-  <td style="width: 250px;" colspan="6" align="center"><b><i>Arabic (Ar)</td>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>Chinese (CN)</td>
 </tr>
 <tr>
-<td style="width: 55px;">Almarsoomi</td>
-<td style="width: 47px;">70</td>
-<td style="width: 32px;">2013</td>
+<td style="width: 55px;">PKU</td>
+<td style="width: 47px;">500</td>
+<td style="width: 32px;">2016</td>
 <td style="width: 34px;">Sim</td>
-<td style="width: 23px;">(Almarsoomi et al., 2013)</td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Similarity/Almarsoomi70.csv">link</a></td>
+<td style="width: 23px;">(Wu and Li, 2016)</td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Chinese/Semantic%20Similarity/PKU500_CN.csv">link1</a><br><a href="https://github.com/commonsense/conceptnet5/blob/master/conceptnet5/support_data/pku-500/pku-500.csv">link2</a></td>
 </tr>
 <tr>
 <td style="width: 55px;" colspan="6" align="center"><b><i>Englsih (EN)</td>
@@ -94,4 +94,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li>Saif, A., Aziz, M.J.A., Omar, N., 2014. Evaluating knowledge-based semantic measures on Arabic. International Journal on Communications Antenna and Propagation 4, 180–194.</li>
   <li>Rubenstein, H., Goodenough, J.B., 1965. Contextual Correlates of Synonymy. Commun. ACM 8, 627–633.</li>
   <li>Miller, G.A., Charles, W.G., 1991. Contextual correlates of semantic similarity. Language & Cognitive Processes 6, 1–28.</li>
+  <li>Wu, Y., Li, W., 2016. Overview of the NLPCC-ICCPOL 2016 Shared Task: Chinese Word Similarity Measurement, in: Natural Language Understanding Intelligent Applications - 5th CCF Conference Natural Language Processing Chinese Computing, NLPCC 2016, 24th International Conference Computer Processing Oriental Languages, ICCPOL2016, Kunming, China, December 26, 2016, Proceedings. pp. 828–839.</li>
 </ol>
