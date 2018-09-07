@@ -73,12 +73,12 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 55px;" colspan="6" align="center"><b><i>French (FR)</td>
 </tr>
   <tr>
-<td style="width: 55px;">&nbsp;</td>
-<td style="width: 47px;">&nbsp;</td>
-<td style="width: 32px;">&nbsp;</td>
+<td style="width: 55px;">RG</td>
+<td style="width: 47px;">65</td>
+<td style="width: 32px;"></td>
 <td style="width: 34px;">&nbsp;</td>
 <td style="width: 23px;">&nbsp;</td>
-<td style="width: 29px;">&nbsp;</td>
+    <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/French/Semantic%20Similarity/RG65_FR.csv">link</a></td>
 </tr>
 <tr>
 <td style="width: 55px;" colspan="6" align="center"><b><i>German (DE)</td>
