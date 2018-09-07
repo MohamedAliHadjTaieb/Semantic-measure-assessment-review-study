@@ -128,11 +128,11 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </tr>
 <tr>
 <td style="width: 55px;"></td>
-<td style="width: 47px;"></td>
-<td style="width: 32px;"></td>
-<td style="width: 34px;"></td>
-<td style="width: 23px;"></td>
-  <td style="width: 29px;"><a href="">link</a></td>
+<td style="width: 47px;">101</td>
+<td style="width: 32px;">2011</td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;">(Pakhomov et al., 2011)</td>
+  <td style="width: 29px;"><a href="http://rxinformatics.umn.edu/SemanticRelatednessResources.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Biomedical%20Datasets/English/Semantic%20Relatedness/MayoSRS_101_EN.csv">link2</a></td>
 </tr>
 </tbody>
 </table>
@@ -173,4 +173,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Camacho-Collados, J., Pilehvar, M.T., Navigli, R., 2015. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets, in: ACL(2). The Association for Computer Linguistics, pp. 1–7.</li>
   <li>Gurevych, I., 2005. Using the Structure of a Conceptual Network in Computing Semantic Relatedness, in: Natural Language Processing IJCNLP 2005,Second International Joint Conference,Jeju Island, Korea, October 11-13,2005,Proceedings. pp. 767–778.</li>
   <li>Joubarne, C., Inkpen, D., 2011. Comparison of Semantic Similarity for Different Languages Using the Google n-gram Corpus and Second-Order Co-occurrence Measures, in: Advances Artificial Intelligence - 24th Canadian Conference Artificial Intelligence, Canadian AI 2011, St.John’s, Canada, May 25-27, 2011. Proceedings. pp. 216–221.</li>
+  <li>S.V.S. Pakhomov, T. Pedersen, B. McInnes, G.B. Melton, A. Ruggieri, C.G. Chute: Towards a framework for developing semantic relatedness reference standards J Biomed Inform, 44 (2011), pp. 251-265</li>
 </ol>
