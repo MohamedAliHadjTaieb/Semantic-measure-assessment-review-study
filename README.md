@@ -80,12 +80,12 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <tr>
 <td style="width: 55px;" colspan="6" align="center"><b><i>Spanish (ES)</td>
 </tr>
-  <td style="width: 55px;">&nbsp;</td>
-<td style="width: 47px;">&nbsp;</td>
-<td style="width: 32px;">&nbsp;</td>
-<td style="width: 34px;">&nbsp;</td>
-<td style="width: 23px;">&nbsp;</td>
-<td style="width: 29px;">&nbsp;</td>
+  <td style="width: 55px;">RG</td>
+<td style="width: 47px;">65</td>
+<td style="width: 32px;">2015</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;">(Camacho-Collados et al., 2015)</td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/datasets/rg65_spanish.txt">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Spanish/Semantic%20Similarity/RG65_ES.csv">link2</a></td>
 </tr>
 </tbody>
 </table>
@@ -97,4 +97,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Rubenstein, H., Goodenough, J.B., 1965. Contextual Correlates of Synonymy. Commun. ACM 8, 627–633.</li>
   <li>Miller, G.A., Charles, W.G., 1991. Contextual correlates of semantic similarity. Language & Cognitive Processes 6, 1–28.</li>
   <li>Wu, Y., Li, W., 2016. Overview of the NLPCC-ICCPOL 2016 Shared Task: Chinese Word Similarity Measurement, in: Natural Language Understanding Intelligent Applications - 5th CCF Conference Natural Language Processing Chinese Computing, NLPCC 2016, 24th International Conference Computer Processing Oriental Languages, ICCPOL2016, Kunming, China, December 26, 2016, Proceedings. pp. 828–839.</li>
+  <il>Camacho-Collados, J., Pilehvar, M.T., Navigli, R., 2015. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets, in: ACL(2). The Association for Computer Linguistics, pp. 1–7.</il>
 </ol>
