@@ -97,5 +97,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Rubenstein, H., Goodenough, J.B., 1965. Contextual Correlates of Synonymy. Commun. ACM 8, 627–633.</li>
   <li>Miller, G.A., Charles, W.G., 1991. Contextual correlates of semantic similarity. Language & Cognitive Processes 6, 1–28.</li>
   <li>Wu, Y., Li, W., 2016. Overview of the NLPCC-ICCPOL 2016 Shared Task: Chinese Word Similarity Measurement, in: Natural Language Understanding Intelligent Applications - 5th CCF Conference Natural Language Processing Chinese Computing, NLPCC 2016, 24th International Conference Computer Processing Oriental Languages, ICCPOL2016, Kunming, China, December 26, 2016, Proceedings. pp. 828–839.</li>
-  <il>Camacho-Collados, J., Pilehvar, M.T., Navigli, R., 2015. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets, in: ACL(2). The Association for Computer Linguistics, pp. 1–7.</il>
+  <li>Camacho-Collados, J., Pilehvar, M.T., Navigli, R., 2015. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets, in: ACL(2). The Association for Computer Linguistics, pp. 1–7.</li>
 </ol>
