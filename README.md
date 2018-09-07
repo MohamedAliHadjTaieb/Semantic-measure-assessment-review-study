@@ -127,7 +127,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 250px;" colspan="6" align="center"><b><i>English (EN)</td>
 </tr>
 <tr>
-<td style="width: 55px;"></td>
+<td style="width: 55px;">MayoSRS</td>
 <td style="width: 47px;">101</td>
 <td style="width: 32px;">2011</td>
 <td style="width: 34px;">Rel</td>
