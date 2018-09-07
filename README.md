@@ -132,7 +132,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2011</td>
 <td style="width: 34px;">Rel</td>
 <td style="width: 23px;">(Pakhomov et al., 2011)</td>
-  <td style="width: 29px;"><a href="http://rxinformatics.umn.edu/SemanticRelatednessResources.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Biomedical%20Datasets/English/Semantic%20Relatedness/MayoSRS_101_EN.csv">link2</a></td>
+  <td style="width: 29px;"><a href="http://rxinformatics.umn.edu/SemanticRelatednessResources.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Biomedical%20Datasets/English/Semantic%20Relatedness/MayoSRS_101_EN.csv">link2</a><br><a href="https://github.com/spyysalo/wvlib/blob/master/word-similarities/MayoSRS/MayoSRS.txt">link3</a></td>
 </tr>
 </tbody>
 </table>
