@@ -136,8 +136,10 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </tr>
 </tbody>
 </table>
+
 # Geographic datasets
-  <table>
+
+<table>
 <tbody>
 <tr>
 <td style="width: 55px;">Dataset</td>
