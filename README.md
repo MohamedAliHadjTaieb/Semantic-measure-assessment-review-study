@@ -134,6 +134,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 23px;">(Pakhomov et al., 2011)</td>
   <td style="width: 29px;"><a href="http://rxinformatics.umn.edu/SemanticRelatednessResources.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Biomedical%20Datasets/English/Semantic%20Relatedness/MayoSRS_101_EN.csv">link2</a><br><a href="https://github.com/spyysalo/wvlib/blob/master/word-similarities/MayoSRS/MayoSRS.txt">link3</a></td>
 </tr>
+<tr>
+<td style="width: 55px;">UMNSRS</td>
+<td style="width: 47px;">587</td>
+<td style="width: 32px;">2010</td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;">(Pakhomov et al., 2010)</td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Biomedical%20Datasets/English/Semantic%20Relatedness/UMNSRS_Relatedness_587_EN.csv">link1</a><br><a href="https://github.com/spyysalo/wvlib/blob/master/word-similarities/UMNSRS/UMNSRS-rel.txt">link2</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -174,4 +182,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Gurevych, I., 2005. Using the Structure of a Conceptual Network in Computing Semantic Relatedness, in: Natural Language Processing IJCNLP 2005,Second International Joint Conference,Jeju Island, Korea, October 11-13,2005,Proceedings. pp. 767–778.</li>
   <li>Joubarne, C., Inkpen, D., 2011. Comparison of Semantic Similarity for Different Languages Using the Google n-gram Corpus and Second-Order Co-occurrence Measures, in: Advances Artificial Intelligence - 24th Canadian Conference Artificial Intelligence, Canadian AI 2011, St.John’s, Canada, May 25-27, 2011. Proceedings. pp. 216–221.</li>
   <li>S.V.S. Pakhomov, T. Pedersen, B. McInnes, G.B. Melton, A. Ruggieri, C.G. Chute: Towards a framework for developing semantic relatedness reference standards J Biomed Inform, 44 (2011), pp. 251-265</li>
+  <li>Pakhomov, S., McInnes, B., Adam, T., Liu, Y., Pedersen, T., Melton, G.B., 2010. Semantic Similarity and Relatedness between Clinical Terms: An Experimental Study. AMIA Annual Symposium proceedings / AMIA Symposium. AMIA Symposium 2010, 572–576.</li>
 </ol>
