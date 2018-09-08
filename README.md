@@ -142,6 +142,17 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 23px;">(Pakhomov et al., 2010)</td>
   <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Biomedical%20Datasets/English/Semantic%20Relatedness/UMNSRS_Relatedness_587_EN.csv">link1</a><br><a href="https://github.com/spyysalo/wvlib/blob/master/word-similarities/UMNSRS/UMNSRS-rel.txt">link2</a></td>
 </tr>
+    <tr>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>Chinese (CN)</td>
+</tr>
+<tr>
+<td style="width: 55px;">Words</td>
+<td style="width: 47px;">240</td>
+<td style="width: 32px;">2012</td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;">(Wang et al.,2012)</td>
+  <td style="width: 29px;"><a href="https://github.com/czgbjy/GTRD/blob/master/Geo-Terminology%20Relatedness%20Dataset/Geo-Terminology_Relatedness_Dataset_means.xlsx">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Geographic%20Datasets/English/Semantic%20Relatedness/GTRD_66_SR_EN.csv">link2</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -166,7 +177,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Rel</td>
 <td style="width: 23px;">(Chen et al.,2018)</td>
-  <td style="width: 29px;"><a href="https://github.com/czgbjy/GTRD/blob/master/Geo-Terminology%20Relatedness%20Dataset/Geo-Terminology_Relatedness_Dataset_means.xlsx">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Geographic%20Datasets/English/Semantic%20Relatedness/GTRD_66_SR_EN.csv">link2</a></td>
+  <td style="width: 29px;"><a href="https://github.com/iamxiatian/wikit/blob/master/expt/dataset/words-240/Words-240.txt">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Biomedical%20Datasets/Chinese/Semantic%20Relatedness/Words-240-CN.csv">link2</a></td>
 </tr>
 </tbody>
 </table>
@@ -184,4 +195,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>S.V.S. Pakhomov, T. Pedersen, B. McInnes, G.B. Melton, A. Ruggieri, C.G. Chute: Towards a framework for developing semantic relatedness reference standards J Biomed Inform, 44 (2011), pp. 251-265</li>
   <li>Pakhomov, S., McInnes, B., Adam, T., Liu, Y., Pedersen, T., Melton, G.B., 2010. Semantic Similarity and Relatedness between Clinical Terms: An Experimental Study. AMIA Annual Symposium proceedings / AMIA Symposium. AMIA Symposium 2010, 572–576.</li>
   <li>Zugang Chen, Jia Song and Yaping Yang: An Approach to Measuring Semantic Relatedness of Geographic Terminologies Using a Thesaurus and Lexical Database Sources, International Journal of Geo-Information, 2018.</li>
+  <li>X. Wang, Y. Jia, B. Zhou, Z. Ding, Z. Liang, Computing semantic relatedness using Chinese Wikipedia links and taxonomy, J. Chinese Comput. Syst., 32 (11) (2012), pp. 2237-2242</il>
 </ol>
