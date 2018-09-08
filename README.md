@@ -91,6 +91,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 23px;">(Gurevych, 2005)</td>
     <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/Gur350_DE.csv">link2</a></td>
 </tr>
+    <tr>
+<td style="width: 55px;">Cramer</td>
+<td style="width: 47px;">100</td>
+<td style="width: 32px;">2008</td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;">(Cramer and Finthammer, 2008)</td>
+    <td style="width: 29px;"><a href="http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1828986623F193B618ED82F0B18B44AD?doi=10.1.1.551.5728&rep=rep1&type=pdf">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/Cramer100_DE.csv">link2</a></td>
+</tr>
   <tr>
 <td style="width: 55px;">WordSim</td>
 <td style="width: 47px;">252</td>
@@ -196,4 +204,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Pakhomov, S., McInnes, B., Adam, T., Liu, Y., Pedersen, T., Melton, G.B., 2010. Semantic Similarity and Relatedness between Clinical Terms: An Experimental Study. AMIA Annual Symposium proceedings / AMIA Symposium. AMIA Symposium 2010, 572–576.</li>
   <li>Zugang Chen, Jia Song and Yaping Yang: An Approach to Measuring Semantic Relatedness of Geographic Terminologies Using a Thesaurus and Lexical Database Sources, International Journal of Geo-Information, 2018.</li>
   <li>X. Wang, Y. Jia, B. Zhou, Z. Ding, Z. Liang: Computing semantic relatedness using Chinese Wikipedia links and taxonomy, J. Chinese Comput. Syst., 32 (11) (2012), pp. 2237-2242</il>
+  <li>Cramer, I., Finthammer, M., 2008. An Evaluation Procedure for Word Net Based Lexical Chaining: Methods and Issues, in: Proceedings Fourth Global WordNet Conference (GWC 2008). University of Szeged, Department of Informatics, Szeged, Ungarn.</li>
 </ol>
