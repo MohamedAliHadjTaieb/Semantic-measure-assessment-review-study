@@ -43,6 +43,28 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Chinese/Semantic%20Similarity/PKU500_CN.csv">link1</a><br><a href="https://github.com/commonsense/conceptnet5/blob/master/conceptnet5/support_data/pku-500/pku-500.csv">link2</a></td>
 </tr>
 <tr>
+  <tr>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>Czech (CS)</td>
+</tr>
+<tr>
+<td style="width: 55px;"></td>
+<td style="width: 47px;"></td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link</a></td>
+</tr>
+    <tr>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>Dutch (NL)</td>
+</tr>
+<tr>
+<td style="width: 55px;"></td>
+<td style="width: 47px;"></td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link</a></td>
+</tr>
 <td style="width: 55px;" colspan="6" align="center"><b><i>English (EN)</td>
 </tr>
 <tr>
