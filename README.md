@@ -216,6 +216,39 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 23px;">(Camacho-Collados et al., 2015)</td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/datasets/rg65_spanish.txt">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Spanish/Semantic%20Similarity/RG65_ES.csv">link2</a></td>
 </tr>
+     <tr>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>Swedish (SE)</td>
+</tr>
+<tr>
+<td style="width: 55px;"></td>
+<td style="width: 47px;"></td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link</a></td>
+</tr>
+     <tr>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>Turkey (TR)</td>
+</tr>
+<tr>
+<td style="width: 55px;"></td>
+<td style="width: 47px;"></td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link</a></td>
+</tr>
+     <tr>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>Vietnamien (VI)</td>
+</tr>
+<tr>
+<td style="width: 55px;"></td>
+<td style="width: 47px;"></td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link</a></td>
+</tr>
 </tbody>
 </table>
   
