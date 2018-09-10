@@ -471,9 +471,9 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 55px;">German</td>
 <td style="width: 55px;">Italian</td>
 <td style="width: 47px;">589</td>
-<td style="width: 32px;"></td>
+<td style="width: 32px;">2015</td>
 <td style="width: 34px;">Rel</td>
-<td style="width: 23px;"></td>
+<td style="width: 23px;">(Camacho-Collados et al.)</td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/WordSim353_Cross_DE_IT_589.csv">link2</a></td>
 </tr>
 </tbody>
@@ -501,4 +501,5 @@ vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li>Halawi, G., Dror, G., Gabrilovich, E., Koren, Y., 2012. Large-scale Learning of Word Relatedness with Constraints, in: Proceedings 18th ACM SIGKDD International Conference Knowledge Discovery Data Mining, KDD’12. ACM, Beijing, China, pp. 1406–1414.</il>
 <li><a name="Szumlanski2013">Szumlanski, S.R., Gomez, F., Sims, V.K., 2013. A New Set of Norms for Semantic Relatedness Measures., in: ACL(2). The Association for Computer Linguistics, pp. 890–895.</a></il>
 <li>Siamak Barzegar, Brian Davis, Manel Zarrouk, Siegfried Handschuh, André Freitas: SemR-11: A Multi-Lingual Gold-Standard for Semantic Similarity and Relatedness for Eleven Languages. LREC 2018</li>
+<li>	José Camacho-Collados, Mohammad Taher Pilehvar and Roberto Navigli. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets. In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL), Short Papers, Beijing, China, July 27-29, 2015.</li>
 </ol>
