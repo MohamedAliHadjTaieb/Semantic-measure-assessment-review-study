@@ -92,6 +92,24 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 29px;"><a href="https://fh295.github.io//simlex.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SimLex999_EN.csv">link2</a></td>
 </tr>
 <tr>
+<td style="width: 55px;">MTurk</td>
+<td style="width: 47px;">287</td>
+<td style="width: 32px;">2011</td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;">(Radinsky et al., 2011)</td>
+<td style="width: 29px;"><a href="https://github.com/mfaruqui/word-vector-demo/blob/master/data/EN-MTurk-287.txt">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/MT287.csv">link2</a></td>
+</tr>
+  <tr>
+    <tr>
+<td style="width: 55px;">MTurk</td>
+<td style="width: 47px;">771</td>
+<td style="width: 32px;">2012</td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;">(Halawi et al., 2012)</td>
+<td style="width: 29px;"><a href="https://github.com/mfaruqui/word-vector-demo/blob/master/data/EN-MTurk-771.txt">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/MT771.csv">link2</a></td>
+</tr>
+  <tr>
+    <tr>
 <td style="width: 55px;">&nbsp;</td>
 <td style="width: 47px;">&nbsp;</td>
 <td style="width: 32px;">&nbsp;</td>
@@ -352,4 +370,6 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Felix Hill, Roi Reichart, and Anna Korhonen. 2015. SimLex-999: Evaluating semantic models with (genuine) similarity estimation. Computational Linguistics, 41(4):665–695.</li>
   <li>Ira Leviant and Roi Reichart. 2015. Separated by an un-common language: Towards judgment language informed
 vector space modeling. arXiv preprint arXiv:1508.00106.</li>
+<li>Radinsky, K., Agichtein, E., Gabrilovich, E., Markovitch, S., 2011. A Word at a Time: Computing Word Relatedness Using Temporal Semantic Analysis, in: Proceedings 20th International Conference World Wide Web, WWW’11. ACM, Hyderabad, India, pp. 337–346.</li>
+<li>Halawi, G., Dror, G., Gabrilovich, E., Koren, Y., 2012. Large-scale Learning of Word Relatedness with Constraints, in: Proceedings 18th ACM SIGKDD International Conference Knowledge Discovery Data Mining, KDD’12. ACM, Beijing, China, pp. 1406–1414.</il>
 </ol>
