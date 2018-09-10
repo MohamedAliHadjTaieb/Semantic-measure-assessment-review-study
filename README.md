@@ -132,10 +132,10 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <tr>
 <td style="width: 55px;">WordSim</td>
 <td style="width: 47px;">252</td>
-<td style="width: 32px;">&nbsp;</td>
+<td style="width: 32px;">2005</td>
 <td style="width: 34px;">Rel</td>
-<td style="width: 23px;">&nbsp;</td>
-<td style="width: 29px;">&nbsp;</td>
+<td style="width: 23px;">(Leviant and Reichart, 2015)</td>
+<td style="width: 29px;"><a href="http://leviants.com/ira.leviant/MultilingualVSMdata.html">link1</a><br><a href="https://github.com/nmrksic/eval-multilingual-simlex/blob/master/evaluation/ws-353/wordsim353-english-rel.txt">link2</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/WordSim252_DE.csv">link3</a></td>
 </tr>
    <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Hindi</td>
@@ -350,4 +350,6 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>X. Wang, Y. Jia, B. Zhou, Z. Ding, Z. Liang: Computing semantic relatedness using Chinese Wikipedia links and taxonomy, J. Chinese Comput. Syst., 32 (11) (2012), pp. 2237-2242</il>
   <li>Cramer, I., Finthammer, M., 2008. An Evaluation Procedure for Word Net Based Lexical Chaining: Methods and Issues, in: Proceedings Fourth Global WordNet Conference (GWC 2008). University of Szeged, Department of Informatics, Szeged, Ungarn.</li>
   <li>Felix Hill, Roi Reichart, and Anna Korhonen. 2015. SimLex-999: Evaluating semantic models with (genuine) similarity estimation. Computational Linguistics, 41(4):665–695.</li>
+  <li>Ira Leviant and Roi Reichart. 2015. Separated by an un-common language: Towards judgment language informed
+vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 </ol>
