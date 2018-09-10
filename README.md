@@ -372,8 +372,48 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 29px;">Link</td>
 </tr>
 <tr>
-<td style="width: 55px;"></td>
- <td style="width: 23px;"></td>
+<td style="width: 55px;">English</td>
+ <td style="width: 23px;">EN</td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+</tr>
+   <tr>
+<td style="width: 55px;">French</td>
+ <td style="width: 23px;">FR</td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+</tr>
+   <tr>
+<td style="width: 55px;">Persian</td>
+ <td style="width: 23px;">FA</td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+</tr>
+   <tr>
+<td style="width: 55px;">Portuguese</td>
+ <td style="width: 23px;">PL</td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+</tr>
+     <tr>
+<td style="width: 55px;">Spanish</td>
+ <td style="width: 23px;">ES</td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+</tr>
+     <tr>
+<td style="width: 55px;"> Swedish</td>
+ <td style="width: 23px;">SE</td>
 <td style="width: 32px;"></td>
 <td style="width: 34px;"></td>
 <td style="width: 23px;"></td>
