@@ -357,7 +357,27 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </table>
 
 # Multilingual datasets
-
+<table>
+<tbody>
+<tr>
+ <td style="width: 55px;">Language</td>
+<td style="width: 32px;">Year</td>
+<td style="width: 34px;">Type</td>
+<td style="width: 23px;">Ref</td>
+<td style="width: 29px;">Link</td>
+</tr>
+<tr>
+ <td style="width: 250px;" colspan="2" align="center"><b><i>RG65 </td><td style="width: 250px;" colspan="2" align="center"><b><i>65 </td><td style="width: 250px;" colspan="2" align="center"><b><i>Sim </td>
+</tr>
+<tr>
+<td style="width: 55px;"></td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+</tr>
+</tbody>
+</table>
 # Cross-Lingual datasets
 
 # References
