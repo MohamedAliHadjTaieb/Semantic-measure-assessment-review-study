@@ -454,6 +454,31 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
    
 # Cross-Lingual datasets
 
+<table>
+<tbody>
+<tr>
+<td style="width: 55px;">Dataset</td>
+  <td style="width: 55px;">Langauge 1</td>
+  <td style="width: 55px;">Langauge 2</td>
+<td style="width: 47px;">|pairs|</td>
+<td style="width: 32px;">Year</td>
+<td style="width: 34px;">Type</td>
+<td style="width: 23px;">Ref</td>
+<td style="width: 29px;">Link</td>
+</tr>
+<tr>
+<td style="width: 55px;">WordSim353_DE_IT</td>
+<td style="width: 55px;">German</td>
+<td style="width: 55px;">Italian</td>
+<td style="width: 47px;">589</td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/WordSim353_Cross_DE_IT_589.csv">link2</a></td>
+</tr>
+</tbody>
+</table>
+
 # References
 <ol>
 <li><a name="Almarsoomi2013">Almarsoomi, F.A., O’Shea, J., Bandar, Z., Crockett, K.A., 2013. AWSS: An Algorithm for Measuring Arabic Word Semantic Similarity</a></li>
