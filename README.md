@@ -385,7 +385,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2011</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;">(Joubarne and Inkpen, 2011)</td>
-    <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/French/Semantic%20Similarity/RG65_FR.csv">link1</a><br><a href="http://www.site.uottawa.ca/~mjoub063/wordsims.htm">link2</a></td>
+    <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Multilingual%20Datasets/RG65/RG65_FR.csv">link1</a><br><a href="http://www.site.uottawa.ca/~mjoub063/wordsims.htm">link2</a></td>
    <tr>
 <td style="width: 55px;">Persian</td>
  <td style="width: 23px;">FA</td>
