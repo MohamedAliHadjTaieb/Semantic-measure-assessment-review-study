@@ -393,7 +393,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;">(Barzegar et al., 2018)</td>
-    <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Multilingual%20Datasets/RG65/RG65_FR.csv">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Multilingual%20Datasets/RG65/RG65_FR_2.csv">link2</a></td>
+    <td style="width: 29px;"><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/fr-rg.dataset">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Multilingual%20Datasets/RG65/RG65_FR_2.csv">link2</a></td>
    </tr>
    <tr>
 <td style="width: 55px;">Persian</td>
