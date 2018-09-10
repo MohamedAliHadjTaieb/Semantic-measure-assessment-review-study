@@ -28,7 +28,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">40</td>
 <td style="width: 32px;">2014</td>
 <td style="width: 34px;">Rel</td>
-<td style="width: 23px;">(Saif et al., 2014)</td>
+  <td style="width: 23px;"><a href="Saif2014">(Saif et al., 2014)</a></td>
   <td style="width: 29px;"><a href="https://www.researchgate.net/publication/272165853_Arabic_Semantic_relatedness_data_set">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Relatedness/Saif40_Ar.csv">link2</a></td>
 </tr>
     <tr>
@@ -363,7 +363,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 # References
 <ol>
 <li><a name="Almarsoomi2013">Almarsoomi, F.A., O’Shea, J., Bandar, Z., Crockett, K.A., 2013. AWSS: An Algorithm for Measuring Arabic Word Semantic Similarity</a></li>
-<li>Saif, A., Aziz, M.J.A., Omar, N., 2014. Evaluating knowledge-based semantic measures on Arabic. International Journal on Communications Antenna and Propagation 4, 180–194.</li>
+<li><a name="Saif2014">Saif, A., Aziz, M.J.A., Omar, N., 2014. Evaluating knowledge-based semantic measures on Arabic. International Journal on Communications Antenna and Propagation 4, 180–194.</a></li>
   <li>Rubenstein, H., Goodenough, J.B., 1965. Contextual Correlates of Synonymy. Commun. ACM 8, 627–633.</li>
   <li>Miller, G.A., Charles, W.G., 1991. Contextual correlates of semantic similarity. Language & Cognitive Processes 6, 1–28.</li>
   <li>Wu, Y., Li, W., 2016. Overview of the NLPCC-ICCPOL 2016 Shared Task: Chinese Word Similarity Measurement, in: Natural Language Understanding Intelligent Applications - 5th CCF Conference Natural Language Processing Chinese Computing, NLPCC 2016, 24th International Conference Computer Processing Oriental Languages, ICCPOL2016, Kunming, China, December 26, 2016, Proceedings. pp. 828–839.</li>
