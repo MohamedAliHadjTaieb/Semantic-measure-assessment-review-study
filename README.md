@@ -83,6 +83,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 23px;">(Miller and Charles, 1991)</td>
 <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/MC30.csv">link</a></td>
 </tr>
+  <tr>
+<td style="width: 55px;">SimLex</td>
+<td style="width: 47px;">999</td>
+<td style="width: 32px;">2015</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"> (Hill et al., 2015)</td>
+<td style="width: 29px;"><a href="https://fh295.github.io//simlex.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SimLex999_EN.csv">link2</a></td>
+</tr>
 <tr>
 <td style="width: 55px;">&nbsp;</td>
 <td style="width: 47px;">&nbsp;</td>
@@ -341,4 +349,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Zugang Chen, Jia Song and Yaping Yang: An Approach to Measuring Semantic Relatedness of Geographic Terminologies Using a Thesaurus and Lexical Database Sources, International Journal of Geo-Information, 2018.</li>
   <li>X. Wang, Y. Jia, B. Zhou, Z. Ding, Z. Liang: Computing semantic relatedness using Chinese Wikipedia links and taxonomy, J. Chinese Comput. Syst., 32 (11) (2012), pp. 2237-2242</il>
   <li>Cramer, I., Finthammer, M., 2008. An Evaluation Procedure for Word Net Based Lexical Chaining: Methods and Issues, in: Proceedings Fourth Global WordNet Conference (GWC 2008). University of Szeged, Department of Informatics, Szeged, Ungarn.</li>
+  <li>Felix Hill, Roi Reichart, and Anna Korhonen. 2015. SimLex-999: Evaluating semantic models with (genuine) similarity estimation. Computational Linguistics, 41(4):665–695.</li>
 </ol>
