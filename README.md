@@ -28,7 +28,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">40</td>
 <td style="width: 32px;">2014</td>
 <td style="width: 34px;">Rel</td>
-  <td style="width: 23px;"><a href="Saif2014">(Saif et al., 2014)</a></td>
+  <td style="width: 23px;"><a href="#Saif2014">(Saif et al., 2014)</a></td>
   <td style="width: 29px;"><a href="https://www.researchgate.net/publication/272165853_Arabic_Semantic_relatedness_data_set">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Relatedness/Saif40_Ar.csv">link2</a></td>
 </tr>
     <tr>
