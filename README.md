@@ -379,6 +379,28 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 23px;"></td>
   <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
 </tr>
+   <tr>
+ <td style="width: 250px;" colspan="2" align="center"><b><i>WordSim353 </td><td style="width: 250px;" colspan="2" align="center"><b><i>353 </td><td style="width: 250px;" colspan="2" align="center"><b><i>Rel </td>
+</tr>
+   <tr>
+<td style="width: 55px;"></td>
+ <td style="width: 23px;"></td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+</tr>
+   <tr>
+ <td style="width: 250px;" colspan="2" align="center"><b><i>SimLex999 </td><td style="width: 250px;" colspan="2" align="center"><b><i>999 </td><td style="width: 250px;" colspan="2" align="center"><b><i>Sim </td>
+</tr>
+   <tr>
+<td style="width: 55px;"></td>
+ <td style="width: 23px;"></td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+</tr>
 </tbody>
 </table>
    
