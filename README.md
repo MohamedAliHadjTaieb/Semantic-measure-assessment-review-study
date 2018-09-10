@@ -110,6 +110,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </tr>
   <tr>
     <tr>
+<td style="width: 55px;">Rel</td>
+<td style="width: 47px;">122</td>
+<td style="width: 32px;">2013</td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;">(Szumlanski et al., 2013)</td>
+<td style="width: 29px;"><a href="http://www.cs.ucf.edu/~seansz/rel-122/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Rel122.csv">link2</a></td>
+</tr>
+     <tr>
 <td style="width: 55px;">&nbsp;</td>
 <td style="width: 47px;">&nbsp;</td>
 <td style="width: 32px;">&nbsp;</td>
@@ -372,4 +380,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li>Radinsky, K., Agichtein, E., Gabrilovich, E., Markovitch, S., 2011. A Word at a Time: Computing Word Relatedness Using Temporal Semantic Analysis, in: Proceedings 20th International Conference World Wide Web, WWW’11. ACM, Hyderabad, India, pp. 337–346.</li>
 <li>Halawi, G., Dror, G., Gabrilovich, E., Koren, Y., 2012. Large-scale Learning of Word Relatedness with Constraints, in: Proceedings 18th ACM SIGKDD International Conference Knowledge Discovery Data Mining, KDD’12. ACM, Beijing, China, pp. 1406–1414.</il>
+<li>Szumlanski, S.R., Gomez, F., Sims, V.K., 2013. A New Set of Norms for Semantic Relatedness Measures., in: ACL(2). The Association for Computer Linguistics, pp. 890–895.</il>
 </ol>
