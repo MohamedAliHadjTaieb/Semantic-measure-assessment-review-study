@@ -134,6 +134,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 23px;"><a href="#Ziegler2006">(Ziegler et al., 2006)</a></td>
 <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Zie30_EN.csv">link1</a><br><a href="http://www2.informatik.uni-freiburg.de/~cziegler/papers/CIKM-06-CR.pdf">link2</a></td>
 </tr>
+  <tr>
+<td style="width: 55px;">GM</td>
+<td style="width: 47px;">30</td>
+<td style="width: 32px;">2008</td>
+<td style="width: 34px;">Rel</td>
+  <td style="width: 23px;"><a href="#Gracia2008">(Gracia and Mena, 2008)</a></td>
+<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/GM30_EN.csv">link1</a><br><a href="https://pdfs.semanticscholar.org/ee98/00a1608a78a5a325af33c2b59747e9a40e00.pdf">link2</a></td>
+</tr>
      <tr>
 <td style="width: 55px;">&nbsp;</td>
 <td style="width: 47px;">&nbsp;</td>
@@ -521,4 +529,5 @@ vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li>	José Camacho-Collados, Mohammad Taher Pilehvar and Roberto Navigli. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets. In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL), Short Papers, Beijing, China, July 27-29, 2015.</li>
 <li><a name="Granada2014">Granada, R., Santos, C.T. dos, Vieira, R., 2014. Comparing Semantic Relatedness between Word Pairs in Portuguese Using Wikipedia, in: Computational Processing Portuguese Language - 11th International Conference, PROPOR 2014, São Carlos/SP, Brazil, October 6-8, 2014. Proceedings. pp. 170–175.</a></il>
 <li><a name="Ziegler2006">Ziegler, C.-N., Simon, K., Lausen, G., 2006. Automatic Computation of Semantic Proximity Using Taxonomic Knowledge, in: Proceedings 15th ACM International Conference Information Knowledge Management, CIKM’06. ACM, Arlington, Virginia, USA, pp. 465–474.</a></li>
+<li><a name="Gracia2008">Gracia, J., Mena, E., 2008. Web-based Measure of Semantic Relatedness, in: InProc. 9th International Conference Web Information Systems Engineering (WISE2008),Auckland (NewZealand. Springer, pp. 136–150.</a></li>
 </ol>
