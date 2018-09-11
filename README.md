@@ -211,12 +211,12 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 250px;" colspan="6" align="center"><b><i>Portuguese (PT)</td>
 </tr>
 <tr>
-<td style="width: 55px;"></td>
-<td style="width: 47px;"></td>
-<td style="width: 32px;"></td>
-<td style="width: 34px;"></td>
-<td style="width: 23px;"></td>
-  <td style="width: 29px;"><a href="">link</a></td>
+<td style="width: 55px;">RG</td>
+<td style="width: 47px;">65</td>
+<td style="width: 32px;">2014</td>
+<td style="width: 34px;">Sim</td>
+  <td style="width: 23px;"><a href="#Granada2014">(Granada et al., 2014)</a></td>
+  <td style="width: 29px;"><a href="http://www.inf.pucrs.br/linatural/wordpress/index.php/recursos-e-ferramentas/lista-de-pares-de-palavras/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Portuguese/Semantic%20Similarity/RG65_PT.csv">link2</a></td>
 </tr>
     <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Romanian (RO)</td>
@@ -502,4 +502,5 @@ vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li><a name="Szumlanski2013">Szumlanski, S.R., Gomez, F., Sims, V.K., 2013. A New Set of Norms for Semantic Relatedness Measures., in: ACL(2). The Association for Computer Linguistics, pp. 890–895.</a></il>
 <li>Siamak Barzegar, Brian Davis, Manel Zarrouk, Siegfried Handschuh, André Freitas: SemR-11: A Multi-Lingual Gold-Standard for Semantic Similarity and Relatedness for Eleven Languages. LREC 2018</li>
 <li>	José Camacho-Collados, Mohammad Taher Pilehvar and Roberto Navigli. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets. In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL), Short Papers, Beijing, China, July 27-29, 2015.</li>
+<li>a name="Granada2014">Granada, R., Santos, C.T. dos, Vieira, R., 2014. Comparing Semantic Relatedness between Word Pairs in Portuguese Using Wikipedia, in: ComputationalProcessing Portuguese Language - 11th International Conference, PROPOR 2014, São Carlos/SP, Brazil, October 6-8, 2014. Proceedings. pp. 170–175.</a></il>
 </ol>
