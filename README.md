@@ -147,7 +147,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Luong2013">(Luong et al., 2013)</a></td>
-<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/RW2034.csv">link1</a><br><a href="http://www.bigdatalab.ac.cn/benchmark/bm/dd?data=Rare%20Word">link2</a></td>
+<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/RW2034.csv">link1</a><br><a href="http://www.bigdatalab.ac.cn/benchmark/bm/dd?data=Rare%20Word">link2</a><br><a href="https://nlp.stanford.edu/~lmthang/morphoNLM/">link3</a></td>
 </tr>
      <tr>
 <td style="width: 55px;">&nbsp;</td>
