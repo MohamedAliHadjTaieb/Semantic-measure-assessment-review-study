@@ -91,6 +91,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 23px;"> (Hill et al., 2015)</td>
 <td style="width: 29px;"><a href="https://fh295.github.io//simlex.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SimLex999_EN.csv">link2</a></td>
 </tr>
+
 <tr>
 <td style="width: 55px;">MTurk</td>
 <td style="width: 47px;">287</td>
@@ -116,6 +117,22 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 34px;">Rel</td>
       <td style="width: 23px;"><a href="#Szumlanski2013">(Szumlanski et al., 2013)</a></td>
 <td style="width: 29px;"><a href="http://www.cs.ucf.edu/~seansz/rel-122/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Rel122.csv">link2</a></td>
+</tr>
+  <tr>
+<td style="width: 55px;">Zie25</td>
+<td style="width: 47px;">25</td>
+<td style="width: 32px;">2006</td>
+<td style="width: 34px;">Rel</td>
+  <td style="width: 23px;"><a href="#Ziegler2006">(Ziegler et al., 2006)</a></td>
+<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Zie25_EN.csv">link1</a><br><a href="http://www2.informatik.uni-freiburg.de/~cziegler/papers/CIKM-06-CR.pdf">link2</a></td>
+</tr>
+  <tr>
+<td style="width: 55px;">Zie30</td>
+<td style="width: 47px;">30</td>
+<td style="width: 32px;">2006</td>
+<td style="width: 34px;">Rel</td>
+  <td style="width: 23px;"><a href="#Ziegler2006">(Ziegler et al., 2006)</a></td>
+<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Zie30_EN.csv">link1</a><br><a href="http://www2.informatik.uni-freiburg.de/~cziegler/papers/CIKM-06-CR.pdf">link2</a></td>
 </tr>
      <tr>
 <td style="width: 55px;">&nbsp;</td>
@@ -503,4 +520,5 @@ vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li>Siamak Barzegar, Brian Davis, Manel Zarrouk, Siegfried Handschuh, André Freitas: SemR-11: A Multi-Lingual Gold-Standard for Semantic Similarity and Relatedness for Eleven Languages. LREC 2018</li>
 <li>	José Camacho-Collados, Mohammad Taher Pilehvar and Roberto Navigli. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets. In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL), Short Papers, Beijing, China, July 27-29, 2015.</li>
 <li><a name="Granada2014">Granada, R., Santos, C.T. dos, Vieira, R., 2014. Comparing Semantic Relatedness between Word Pairs in Portuguese Using Wikipedia, in: Computational Processing Portuguese Language - 11th International Conference, PROPOR 2014, São Carlos/SP, Brazil, October 6-8, 2014. Proceedings. pp. 170–175.</a></il>
+<li><a name="Ziegler2006">Ziegler, C.-N., Simon, K., Lausen, G., 2006. Automatic Computation of Semantic Proximity Using Taxonomic Knowledge, in: Proceedings 15th ACM International Conference Information Knowledge Management, CIKM’06. ACM, Arlington, Virginia, USA, pp. 465–474.</a></li>
 </ol>
