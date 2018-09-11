@@ -498,7 +498,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">589</td>
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Rel</td>
-<td style="width: 23px;">(Camacho-Collados et al.)</td>
+<td style="width: 23px;">(Camacho-Collados et al.,2015)</td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/WordSim353_Cross_DE_IT_589.csv">link2</a></td>
 </tr>
 </tbody>
