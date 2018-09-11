@@ -406,10 +406,10 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
    <tr>
 <td style="width: 55px;">Portuguese</td>
  <td style="width: 23px;">PL</td>
-<td style="width: 32px;"></td>
-<td style="width: 34px;"></td>
-<td style="width: 23px;"></td>
-  <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+<td style="width: 32px;">2014</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Granada2014">(Granada et al., 2014)</a></td>
+  <td style="width: 29px;"><a href="http://www.inf.pucrs.br/linatural/wordpress/index.php/recursos-e-ferramentas/lista-de-pares-de-palavras/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Portuguese/Semantic%20Similarity/RG65_PT.csv">link2</a></td>
 </tr>
      <tr>
 <td style="width: 55px;">Spanish</td>
