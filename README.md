@@ -29,7 +29,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2009</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Hassan2009">(Hassan and Mihalcea, 2009)</a></td>
-  <td style="width: 29px;"><a href="http://web.eecs.umich.edu/~mihalcea/downloads.html">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://web.eecs.umich.edu/~mihalcea/downloads.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Similarity/MC30_AR.csv">link2</a></td>
 </tr>
 <tr>
 <td style="width: 55px;">SaifAr</td>
