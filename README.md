@@ -41,7 +41,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </tr>
     <tr>
 <td style="width: 55px;">WordSim</td>
-<td style="width: 47px;">353</td>
+<td style="width: 47px;">352</td>
 <td style="width: 32px;">2009</td>
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Hassan2009">(Hassan and Mihalcea, 2009)</a></td>
