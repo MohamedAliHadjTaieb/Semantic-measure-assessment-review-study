@@ -23,6 +23,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 23px;"><a href="#Almarsoomi2013">(Almarsoomi et al., 2013)</a></td>
   <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Similarity/Almarsoomi70.csv">link</a></td>
 </tr>
+ <tr>
+<td style="width: 55px;">MC</td>
+<td style="width: 47px;">30</td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;">Sim</td>
+  <td style="width: 23px;"><a href="#"></a></td>
+  <td style="width: 29px;"><a href="">link</a></td>
+</tr>
 <tr>
 <td style="width: 55px;">SaifAr</td>
 <td style="width: 47px;">40</td>
@@ -30,6 +38,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Saif2014">(Saif et al., 2014)</a></td>
   <td style="width: 29px;"><a href="https://www.researchgate.net/publication/272165853_Arabic_Semantic_relatedness_data_set">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Relatedness/Saif40_Ar.csv">link2</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;">WordSim</td>
+<td style="width: 47px;">353</td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;">Rel</td>
+  <td style="width: 23px;"><a href="#"></a></td>
+  <td style="width: 29px;"><a href="">link</a></td>
 </tr>
     <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Chinese (CN)</td>
