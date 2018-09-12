@@ -26,9 +26,9 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
  <tr>
 <td style="width: 55px;">MC</td>
 <td style="width: 47px;">30</td>
-<td style="width: 32px;"></td>
+<td style="width: 32px;">2009</td>
 <td style="width: 34px;">Sim</td>
-  <td style="width: 23px;"><a href="#"></a></td>
+  <td style="width: 23px;"><a href="#Hassan2009">(Hassan and Mihalcea, 2009)</a></td>
   <td style="width: 29px;"><a href="">link</a></td>
 </tr>
 <tr>
@@ -42,9 +42,9 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
     <tr>
 <td style="width: 55px;">WordSim</td>
 <td style="width: 47px;">353</td>
-<td style="width: 32px;"></td>
+<td style="width: 32px;">2009</td>
 <td style="width: 34px;">Rel</td>
-  <td style="width: 23px;"><a href="#"></a></td>
+  <td style="width: 23px;"><a href="#Hassan2009">(Hassan and Mihalcea, 2009)</a></td>
   <td style="width: 29px;"><a href="">link</a></td>
 </tr>
     <tr>
@@ -554,4 +554,5 @@ vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li><a name="Ziegler2006">Ziegler, C.-N., Simon, K., Lausen, G., 2006. Automatic Computation of Semantic Proximity Using Taxonomic Knowledge, in: Proceedings 15th ACM International Conference Information Knowledge Management, CIKM’06. ACM, Arlington, Virginia, USA, pp. 465–474.</a></li>
 <li><a name="Gracia2008">Gracia, J., Mena, E., 2008. Web-based Measure of Semantic Relatedness, in: InProc. 9th International Conference Web Information Systems Engineering (WISE2008), Auckland (NewZealand). Springer, pp. 136–150.</a></li>
 <li><a name="Luong2013">Luong, T., Socher, R., Manning, C., 2013. Better Word Representations with Recursive Neural Networks for Morphology, in: Proceedings Seventeenth Conference Computational Natural Language Learning. IAssociation for Computational Linguistics, Sofia, Bulgaria, pp. 104–113.</a></li>
+<li><a name="Hassan2009">Hassan, S., Mihalcea, R., 2009. Cross-lingual Semantic Relatedness Using Encyclopedic Knowledge, in: Proceedings 2009 Conference Empirical Methods Natural Language Processing: Volume 3 - Volume 3, EMNLP’09. Association for Computational Linguistics, Singapore, pp. 1192–1201.</a></li>
 </ol>
