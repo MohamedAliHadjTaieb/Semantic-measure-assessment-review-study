@@ -45,7 +45,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2009</td>
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Hassan2009">(Hassan and Mihalcea, 2009)</a></td>
-  <td style="width: 29px;"><a href="http://web.eecs.umich.edu/~mihalcea/downloads.html">link</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://web.eecs.umich.edu/~mihalcea/downloads.html">link1</a><br><a href="">link2</a></td>
 </tr>
     <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Chinese (CN)</td>
