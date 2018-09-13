@@ -310,14 +310,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 29px;"><a href="">link</a></td>
 </tr>
      <tr>
-  <td style="width: 250px;" colspan="6" align="center"><b><i>Turkey (TR)</td>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>Turkish (TR)</td>
 </tr>
 <tr>
-<td style="width: 55px;"></td>
-<td style="width: 47px;"></td>
-<td style="width: 32px;"></td>
-<td style="width: 34px;"></td>
-<td style="width: 23px;"></td>
+<td style="width: 55px;">Ugur</td>
+<td style="width: 47px;">101</td>
+<td style="width: 32px;">Sim</td>
+<td style="width: 34px;">2016</td>
+  <td style="width: 23px;"><a href="#Ugur2016">(Ugur and Gonenc, 2016)</a></td>
   <td style="width: 29px;"><a href="">link</a></td>
 </tr>
      <tr>
@@ -565,4 +565,5 @@ vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li><a name="Hassan2009">Hassan, S., Mihalcea, R., 2009. Cross-lingual Semantic Relatedness Using Encyclopedic Knowledge, in: Proceedings 2009 Conference Empirical Methods Natural Language Processing: Volume 3 - Volume 3, EMNLP’09. Association for Computational Linguistics, Singapore, pp. 1192–1201.</a></li>
 <li><a name="Nguyen2018">Kim Anh Nguyen, Sabine Schulte im Walde and Ngoc Thang Vu. Introducing two Vietnamese Datasets for Evaluating Semantic Models of (Dis-)Similarity and Relatedness. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HTL). New Orleans, Louisiana, June 2018</a></li>
 <li><a name="Tan2017">	Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam: Construction of a word similarity dataset and evaluation of word similarity techniques for Vietnamese. KSE 2017: Hue, Vietnam, 65-70.</a></li>
+<li><a name="Ugur2016">Ugur Sopaoglu and Gonenc Ercan. Evaluation of Semantic Relatedness Measures for Turkish Language. In Proceedings of the 17th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2016), Konya, Turkey, 2016.</a></li>
 </ol>
