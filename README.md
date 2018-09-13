@@ -328,8 +328,8 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">999</td>
 <td style="width: 32px;">2017</td>
 <td style="width: 34px;">Sim</td>
-  <td style="width: 23px;"><a href=""#Tan2017">(Tan et al., 2017)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/BuiVanTan2017/VSimLex-999">link</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Vietnamien/Semantic%20Similarity/SimLex999_VI.csv">link2</a></td>
+  <td style="width: 23px;"><a href="#Tan2017">(Tan et al., 2017)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/BuiVanTan2017/VSimLex-999">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Vietnamien/Semantic%20Similarity/SimLex999_VI.csv">link2</a></td>
 </tr>
     <tr>
 <td style="width: 55px;">ViData</td>
