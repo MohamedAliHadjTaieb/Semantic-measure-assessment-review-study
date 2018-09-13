@@ -327,7 +327,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 55px;">SimLex</td>
 <td style="width: 47px;">999</td>
 <td style="width: 32px;">2018</td>
-<td style="width: 34px;"></td>
+<td style="width: 34px;">Sim</td>
 <td style="width: 23px;"></td>
   <td style="width: 29px;"><a href="">link</a></td>
 </tr>
@@ -335,8 +335,8 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 55px;">ViData</td>
 <td style="width: 47px;">400</td>
 <td style="width: 32px;">2018</td>
-      <td style="width: 34px;"><a href="#Nguyen2018">(Nguyen et al., 2018)</a></td>
-<td style="width: 23px;"></td>
+      <td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Nguyen2018">(Nguyen et al., 2018)</a></td>
   <td style="width: 29px;"><a href="http://www.ims.uni-stuttgart.de/forschung/ressourcen/experiment-daten/vnese_sem_datasets.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Vietnamien/Semantic%20Similarity/ViData_400_VI.csv">link2</a></td>
 </tr>
 </tbody>
