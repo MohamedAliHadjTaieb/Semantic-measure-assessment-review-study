@@ -324,12 +324,20 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 250px;" colspan="6" align="center"><b><i>Vietnamien (VI)</td>
 </tr>
 <tr>
-<td style="width: 55px;"></td>
-<td style="width: 47px;"></td>
-<td style="width: 32px;"></td>
+<td style="width: 55px;">SimLex</td>
+<td style="width: 47px;">999</td>
+<td style="width: 32px;">2018</td>
 <td style="width: 34px;"></td>
 <td style="width: 23px;"></td>
   <td style="width: 29px;"><a href="">link</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;">ViData</td>
+<td style="width: 47px;">400</td>
+<td style="width: 32px;">2018</td>
+      <td style="width: 34px;"><a href="#Nguyen2018">(Nguyen et al., 2018)</a></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="http://www.ims.uni-stuttgart.de/forschung/ressourcen/experiment-daten/vnese_sem_datasets.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Vietnamien/Semantic%20Similarity/ViData_400_VI.csv">link2</a></td>
 </tr>
 </tbody>
 </table>
@@ -555,4 +563,5 @@ vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li><a name="Gracia2008">Gracia, J., Mena, E., 2008. Web-based Measure of Semantic Relatedness, in: InProc. 9th International Conference Web Information Systems Engineering (WISE2008), Auckland (NewZealand). Springer, pp. 136–150.</a></li>
 <li><a name="Luong2013">Luong, T., Socher, R., Manning, C., 2013. Better Word Representations with Recursive Neural Networks for Morphology, in: Proceedings Seventeenth Conference Computational Natural Language Learning. IAssociation for Computational Linguistics, Sofia, Bulgaria, pp. 104–113.</a></li>
 <li><a name="Hassan2009">Hassan, S., Mihalcea, R., 2009. Cross-lingual Semantic Relatedness Using Encyclopedic Knowledge, in: Proceedings 2009 Conference Empirical Methods Natural Language Processing: Volume 3 - Volume 3, EMNLP’09. Association for Computational Linguistics, Singapore, pp. 1192–1201.</a></li>
+<li><a name="Nguyen2018">Kim Anh Nguyen, Sabine Schulte im Walde and Ngoc Thang Vu. Introducing two Vietnamese Datasets for Evaluating Semantic Models of (Dis-)Similarity and Relatedness. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HTL). New Orleans, Louisiana, June 2018</a></li>
 </ol>
