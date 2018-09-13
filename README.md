@@ -326,10 +326,10 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <tr>
 <td style="width: 55px;">SimLex</td>
 <td style="width: 47px;">999</td>
-<td style="width: 32px;">2018</td>
+<td style="width: 32px;">2017</td>
 <td style="width: 34px;">Sim</td>
-<td style="width: 23px;"></td>
-  <td style="width: 29px;"><a href="">link</a></td>
+  <td style="width: 23px;"><a href=""#Tan2017">(Tan et al., 2017)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/BuiVanTan2017/VSimLex-999">link</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Vietnamien/Semantic%20Similarity/SimLex999_VI.csv">link2</a></td>
 </tr>
     <tr>
 <td style="width: 55px;">ViData</td>
@@ -564,4 +564,5 @@ vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li><a name="Luong2013">Luong, T., Socher, R., Manning, C., 2013. Better Word Representations with Recursive Neural Networks for Morphology, in: Proceedings Seventeenth Conference Computational Natural Language Learning. IAssociation for Computational Linguistics, Sofia, Bulgaria, pp. 104–113.</a></li>
 <li><a name="Hassan2009">Hassan, S., Mihalcea, R., 2009. Cross-lingual Semantic Relatedness Using Encyclopedic Knowledge, in: Proceedings 2009 Conference Empirical Methods Natural Language Processing: Volume 3 - Volume 3, EMNLP’09. Association for Computational Linguistics, Singapore, pp. 1192–1201.</a></li>
 <li><a name="Nguyen2018">Kim Anh Nguyen, Sabine Schulte im Walde and Ngoc Thang Vu. Introducing two Vietnamese Datasets for Evaluating Semantic Models of (Dis-)Similarity and Relatedness. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HTL). New Orleans, Louisiana, June 2018</a></li>
+<li><a name="Tan2017">	Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam: Construction of a word similarity dataset and evaluation of word similarity techniques for Vietnamese. KSE 2017: Hue, Vietnam, 65-70.</a></li>
 </ol>
