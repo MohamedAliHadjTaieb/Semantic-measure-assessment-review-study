@@ -312,13 +312,29 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
      <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Turkish (TR)</td>
 </tr>
-<tr>
+    <tr>
+<td style="width: 55px;">Anlamver</td>
+<td style="width: 47px;">500</td>
+<td style="width: 32px;">Sim</td>
+<td style="width: 34px;">2018</td>
+  <td style="width: 23px;"><a href="#Ercan2018">(Ercan and Taner Yıldız, 2018)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Turkey/Semantic%20Similarity/anlamver500_TR.csv">link1</a><br><a href="http://www.gokhanercan.com/resources/anlamver.aspx">link2</a></td>
+</tr>
+    <tr>
 <td style="width: 55px;">Ugur</td>
 <td style="width: 47px;">101</td>
-<td style="width: 32px;">Sim</td>
+<td style="width: 32px;">Rel</td>
 <td style="width: 34px;">2016</td>
   <td style="width: 23px;"><a href="#Ugur2016">(Ugur and Gonenc, 2016)</a></td>
-  <td style="width: 29px;"><a href="">link</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Turkey/Semantic%20Relatedness/Ugur101_TR.csv">link1</a><br><a href="http://nlp.cs.hacettepe.edu.tr/datasets.html">link2</a></td>
+</tr>
+<tr>
+<td style="width: 55px;">Anlamver</td>
+<td style="width: 47px;">500</td>
+<td style="width: 32px;">Rel</td>
+<td style="width: 34px;">2018</td>
+  <td style="width: 23px;"><a href="#Ercan2018">(Ercan and Taner Yıldız, 2018)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Turkey/Semantic%20Relatedness/anlamver500_TR.csv">link1</a><br><a href="http://www.gokhanercan.com/resources/anlamver.aspx">link2</a></td>
 </tr>
      <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Vietnamien (VI)</td>
@@ -566,4 +582,5 @@ vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li><a name="Nguyen2018">Kim Anh Nguyen, Sabine Schulte im Walde and Ngoc Thang Vu. Introducing two Vietnamese Datasets for Evaluating Semantic Models of (Dis-)Similarity and Relatedness. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HTL). New Orleans, Louisiana, June 2018</a></li>
 <li><a name="Tan2017">	Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam: Construction of a word similarity dataset and evaluation of word similarity techniques for Vietnamese. KSE 2017: Hue, Vietnam, 65-70.</a></li>
 <li><a name="Ugur2016">Ugur Sopaoglu and Gonenc Ercan. Evaluation of Semantic Relatedness Measures for Turkish Language. In Proceedings of the 17th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2016), Konya, Turkey, 2016.</a></li>
+<li><a name="Ercan2018">Gökhan Ercan, Olcay Taner Yildiz: AnlamVer: Semantic Model Evaluation Dataset for Turkish - Word Similarity and Relatedness. COLING 2018: 3819-3836</a></li>
 </ol>
