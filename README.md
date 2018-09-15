@@ -198,10 +198,10 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <tr>
 <td style="width: 55px;">AG</td>
 <td style="width: 47px;">201</td>
-<td style="width: 32px;"></td>
+<td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
-    <td style="width: 23px;"><a href="#"></a></td>
-    <td style="width: 29px;"><a href="">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Similarity/AG201_DE.csv">link2</a></td>
+    <td style="width: 23px;"><a href="#Leviant2015">(Leviant and Reichart, 2015)</a></td>
+    <td style="width: 29px;"><a href="http://leviants.com/ira.leviant/MultilingualVSMdata.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Similarity/AG201_DE.csv">link2</a></td>
 </tr>
   <tr>
 <td style="width: 55px;">Gur</td>
@@ -232,7 +232,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">252</td>
 <td style="width: 32px;">2005</td>
 <td style="width: 34px;">Rel</td>
-<td style="width: 23px;">(Leviant and Reichart, 2015)</td>
+    <td style="width: 23px;"><a href="#Leviant2015">(Leviant and Reichart, 2015)</a></td>
 <td style="width: 29px;"><a href="http://leviants.com/ira.leviant/MultilingualVSMdata.html">link1</a><br><a href="https://github.com/nmrksic/eval-multilingual-simlex/blob/master/evaluation/ws-353/wordsim353-english-rel.txt">link2</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/WordSim252_DE.csv">link3</a></td>
 </tr>
    <tr>
@@ -591,8 +591,8 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>X. Wang, Y. Jia, B. Zhou, Z. Ding, Z. Liang: Computing semantic relatedness using Chinese Wikipedia links and taxonomy, J. Chinese Comput. Syst., 32 (11) (2012), pp. 2237-2242</il>
   <li><a name="Cramer2008">Cramer, I., Finthammer, M., 2008. An Evaluation Procedure for Word Net Based Lexical Chaining: Methods and Issues, in: Proceedings Fourth Global WordNet Conference (GWC 2008). University of Szeged, Department of Informatics, Szeged, Ungarn.</a></li>
   <li>Felix Hill, Roi Reichart, and Anna Korhonen. 2015. SimLex-999: Evaluating semantic models with (genuine) similarity estimation. Computational Linguistics, 41(4):665–695.</li>
-  <li>Ira Leviant and Roi Reichart. 2015. Separated by an un-common language: Towards judgment language informed
-vector space modeling. arXiv preprint arXiv:1508.00106.</li>
+  <li><a name="Leviant2015">Ira Leviant and Roi Reichart. 2015. Separated by an un-common language: Towards judgment language informed
+  vector space modeling. arXiv preprint arXiv:1508.00106.</a></li>
 <li>Radinsky, K., Agichtein, E., Gabrilovich, E., Markovitch, S., 2011. A Word at a Time: Computing Word Relatedness Using Temporal Semantic Analysis, in: Proceedings 20th International Conference World Wide Web, WWW’11. ACM, Hyderabad, India, pp. 337–346.</li>
 <li>Halawi, G., Dror, G., Gabrilovich, E., Koren, Y., 2012. Large-scale Learning of Word Relatedness with Constraints, in: Proceedings 18th ACM SIGKDD International Conference Knowledge Discovery Data Mining, KDD’12. ACM, Beijing, China, pp. 1406–1414.</il>
 <li><a name="Szumlanski2013">Szumlanski, S.R., Gomez, F., Sims, V.K., 2013. A New Set of Norms for Semantic Relatedness Measures., in: ACL(2). The Association for Computer Linguistics, pp. 890–895.</a></il>
