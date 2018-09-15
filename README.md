@@ -279,6 +279,17 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 29px;"><a href="">link</a></td>
 </tr>
      <tr>
+  <td style="width: 250px;" colspan="6" align="center"><b><i>Hungarian (HU)</td>
+</tr>
+<tr>
+<td style="width: 55px;">MC/td>
+<td style="width: 47px;">30</td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;">Sim</td>
+  <td style="width: 23px;"><a href="#Agoston">(Ágoston Tóth)</a></td>
+  <td style="width: 29px;"><a href="http://theroundtable.partium.ro/Current/Language/How%20Similar%20Word%20Similarity%20Judgments%20in%20English%20and%20Hungarian.pdf">link</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hungarian/Semantic%20Similarity/MC31_HU.csv">link2</a></td>
+</tr>
+     <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Italian (IT)</td>
 </tr>
 <tr>
@@ -641,4 +652,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Ercan2018">Gökhan Ercan, Olcay Taner Yildiz: AnlamVer: Semantic Model Evaluation Dataset for Turkish - Word Similarity and Relatedness. COLING 2018: 3819-3836</a></li>
 <li><a name="Zesch2006">Zesch, T., Gurevych, I., 2006. Automatically creating datasets for measures of semantic relatedness, in: COLING/ACL 2006 Workshop Linguistic Distances. Sydney, Australia, pp. 16–24.</a></li>
 <li><a name="Akhtar2017">Akhtar, S.S., Gupta, A., Vajpayee, A., Srivastava, A., Shrivastava, M., 2017. Word Similarity Datasets for Indian Languages: Annotation and Baseline Systems, in: LAW@ACL. Association for Computational Linguistics, pp. 91–94.</a></li>
+<li><a name="Agoston">How Similar: Word Similarity Judgments in English and Hungarian, Ágoston Tóth.</a></li>
 </ol>
