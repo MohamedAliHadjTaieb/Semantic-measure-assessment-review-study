@@ -193,14 +193,22 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2005</td>
 <td style="width: 34px;">Sim</td>
     <td style="width: 23px;"><a href="#Gurevych2005">(Gurevych, 2005)</a></td>
-    <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="">link2</a></td>
+    <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Similarity/Gur65_DE.csv">link2</a></td>
+</tr>
+  <tr>
+<td style="width: 55px;">AG</td>
+<td style="width: 47px;">201</td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;">Sim</td>
+    <td style="width: 23px;"><a href="#"></a></td>
+    <td style="width: 29px;"><a href="">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Similarity/AG201_DE.csv">link2</a></td>
 </tr>
   <tr>
 <td style="width: 55px;">Gur</td>
 <td style="width: 47px;">350</td>
 <td style="width: 32px;">2005</td>
 <td style="width: 34px;">Rel</td>
-<td style="width: 23px;">(Gurevych, 2005)</td>
+<td style="width: 23px;"><a href="#Gurevych2005">(Gurevych, 2005)</a></td>
     <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/Gur350_DE.csv">link2</a></td>
 </tr>
     <tr>
@@ -209,14 +217,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2006</td>
 <td style="width: 34px;">Rel</td>
       <td style="width: 23px;"><a href="#Zesch2006">(Zesch and Gurevych, 2006)</a></td>
-    <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="">link2</a></td>
+    <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/ZG222_DE.csv">link2</a></td>
 </tr>
     <tr>
 <td style="width: 55px;">Cramer</td>
 <td style="width: 47px;">100</td>
 <td style="width: 32px;">2008</td>
 <td style="width: 34px;">Rel</td>
-<td style="width: 23px;">(Cramer and Finthammer, 2008)</td>
+      <td style="width: 23px;"><a href="#Cramer2008">(Cramer and Finthammer, 2008)</a></td>
     <td style="width: 29px;"><a href="http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1828986623F193B618ED82F0B18B44AD?doi=10.1.1.551.5728&rep=rep1&type=pdf">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/Cramer100_DE.csv">link2</a></td>
 </tr>
   <tr>
@@ -581,7 +589,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Pakhomov, S., McInnes, B., Adam, T., Liu, Y., Pedersen, T., Melton, G.B., 2010. Semantic Similarity and Relatedness between Clinical Terms: An Experimental Study. AMIA Annual Symposium proceedings / AMIA Symposium. AMIA Symposium 2010, 572–576.</li>
   <li>Zugang Chen, Jia Song and Yaping Yang: An Approach to Measuring Semantic Relatedness of Geographic Terminologies Using a Thesaurus and Lexical Database Sources, International Journal of Geo-Information, 2018.</li>
   <li>X. Wang, Y. Jia, B. Zhou, Z. Ding, Z. Liang: Computing semantic relatedness using Chinese Wikipedia links and taxonomy, J. Chinese Comput. Syst., 32 (11) (2012), pp. 2237-2242</il>
-  <li>Cramer, I., Finthammer, M., 2008. An Evaluation Procedure for Word Net Based Lexical Chaining: Methods and Issues, in: Proceedings Fourth Global WordNet Conference (GWC 2008). University of Szeged, Department of Informatics, Szeged, Ungarn.</li>
+  <li><a name="Cramer2008">Cramer, I., Finthammer, M., 2008. An Evaluation Procedure for Word Net Based Lexical Chaining: Methods and Issues, in: Proceedings Fourth Global WordNet Conference (GWC 2008). University of Szeged, Department of Informatics, Szeged, Ungarn.</a></li>
   <li>Felix Hill, Roi Reichart, and Anna Korhonen. 2015. SimLex-999: Evaluating semantic models with (genuine) similarity estimation. Computational Linguistics, 41(4):665–695.</li>
   <li>Ira Leviant and Roi Reichart. 2015. Separated by an un-common language: Towards judgment language informed
 vector space modeling. arXiv preprint arXiv:1508.00106.</li>
@@ -599,5 +607,5 @@ vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li><a name="Tan2017">	Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam: Construction of a word similarity dataset and evaluation of word similarity techniques for Vietnamese. KSE 2017: Hue, Vietnam, 65-70.</a></li>
 <li><a name="Ugur2016">Ugur Sopaoglu and Gonenc Ercan. Evaluation of Semantic Relatedness Measures for Turkish Language. In Proceedings of the 17th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2016), Konya, Turkey, 2016.</a></li>
 <li><a name="Ercan2018">Gökhan Ercan, Olcay Taner Yildiz: AnlamVer: Semantic Model Evaluation Dataset for Turkish - Word Similarity and Relatedness. COLING 2018: 3819-3836</a></li>
-<li><a name="Zesch2006">Zesch, T., Gurevych, I., 2006. Automatically creating datasets for measures of semantic relatedness, in: COLING/ACL2006Workshop Linguistic Distances. Sydney, Australia, pp. 16–24.</a></li>
+<li><a name="Zesch2006">Zesch, T., Gurevych, I., 2006. Automatically creating datasets for measures of semantic relatedness, in: COLING/ACL 2006 Workshop Linguistic Distances. Sydney, Australia, pp. 16–24.</a></li>
 </ol>
