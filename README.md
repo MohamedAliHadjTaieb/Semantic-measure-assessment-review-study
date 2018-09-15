@@ -239,6 +239,38 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 250px;" colspan="6" align="center"><b><i>Hindi</td>
 </tr>
 <tr>
+<td style="width: 55px;">Gujarati-WS-Indian</td>
+<td style="width: 47px;">163</td>
+<td style="width: 32px;">2017</td>
+<td style="width: 34px;">Sim</td>
+  <td style="width: 23px;"><a href="#Akhtar2017">(Akhtar et al., 2017)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Gujarati-WS-Indian163.csv">link</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;">Punjabi-WS-Indian</td>
+<td style="width: 47px;">143</td>
+<td style="width: 32px;">2017</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Akhtar2017">(Akhtar et al., 2017)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Punjabi-WS-Indian143.csv">link</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;">Tamil-WS-Indian</td>
+<td style="width: 47px;">97</td>
+<td style="width: 32px;">2017</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Akhtar2017">(Akhtar et al., 2017)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Tamil-WS-Indian97.csv">link</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;"></td>
+<td style="width: 47px;"></td>
+<td style="width: 32px;"></td>
+<td style="width: 34px;"></td>
+<td style="width: 23px;"></td>
+  <td style="width: 29px;"><a href="">link</a></td>
+</tr>
+    <tr>
 <td style="width: 55px;"></td>
 <td style="width: 47px;"></td>
 <td style="width: 32px;"></td>
@@ -608,4 +640,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Ugur2016">Ugur Sopaoglu and Gonenc Ercan. Evaluation of Semantic Relatedness Measures for Turkish Language. In Proceedings of the 17th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2016), Konya, Turkey, 2016.</a></li>
 <li><a name="Ercan2018">Gökhan Ercan, Olcay Taner Yildiz: AnlamVer: Semantic Model Evaluation Dataset for Turkish - Word Similarity and Relatedness. COLING 2018: 3819-3836</a></li>
 <li><a name="Zesch2006">Zesch, T., Gurevych, I., 2006. Automatically creating datasets for measures of semantic relatedness, in: COLING/ACL 2006 Workshop Linguistic Distances. Sydney, Australia, pp. 16–24.</a></li>
+<li><a name="Akhtar2017">Akhtar, S.S., Gupta, A., Vajpayee, A., Srivastava, A., Shrivastava, M., 2017. Word Similarity Datasets for Indian Languages: Annotation and Baseline Systems, in: LAW@ACL. Association for Computational Linguistics, pp. 91–94.</a></li>
 </ol>
