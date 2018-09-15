@@ -286,7 +286,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">31</td>
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">Sim</td>
-  <td style="width: 23px;"><a href="#Agoston">(Ágoston Tóth)</a></td>
+  <td style="width: 23px;"><a href="#Agoston">(Ágoston Tóth, 2013)</a></td>
   <td style="width: 29px;"><a href="http://theroundtable.partium.ro/Current/Language/How%20Similar%20Word%20Similarity%20Judgments%20in%20English%20and%20Hungarian.pdf">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hungarian/Semantic%20Similarity/MC31_HU.csv">link2</a></td>
 </tr>
      <tr>
