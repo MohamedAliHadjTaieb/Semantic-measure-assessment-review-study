@@ -189,11 +189,27 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </tr>
   <tr>
 <td style="width: 55px;">Gur</td>
+<td style="width: 47px;">65</td>
+<td style="width: 32px;">2005</td>
+<td style="width: 34px;">Sim</td>
+    <td style="width: 23px;"><a href="#Gurevych2005">(Gurevych, 2005)</a></td>
+    <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="">link2</a></td>
+</tr>
+  <tr>
+<td style="width: 55px;">Gur</td>
 <td style="width: 47px;">350</td>
 <td style="width: 32px;">2005</td>
 <td style="width: 34px;">Rel</td>
 <td style="width: 23px;">(Gurevych, 2005)</td>
     <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/Gur350_DE.csv">link2</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;">ZG</td>
+<td style="width: 47px;">222</td>
+<td style="width: 32px;">2006</td>
+<td style="width: 34px;">Rel</td>
+      <td style="width: 23px;"><a href="#Zesch2006">(Zesch and Gurevych, 2006)</a></td>
+    <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="">link2</a></td>
 </tr>
     <tr>
 <td style="width: 55px;">Cramer</td>
@@ -559,7 +575,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Miller, G.A., Charles, W.G., 1991. Contextual correlates of semantic similarity. Language & Cognitive Processes 6, 1–28.</li>
   <li>Wu, Y., Li, W., 2016. Overview of the NLPCC-ICCPOL 2016 Shared Task: Chinese Word Similarity Measurement, in: Natural Language Understanding Intelligent Applications - 5th CCF Conference Natural Language Processing Chinese Computing, NLPCC 2016, 24th International Conference Computer Processing Oriental Languages, ICCPOL2016, Kunming, China, December 26, 2016, Proceedings. pp. 828–839.</li>
   <li>Camacho-Collados, J., Pilehvar, M.T., Navigli, R., 2015. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets, in: ACL(2). The Association for Computer Linguistics, pp. 1–7.</li>
-  <li>Gurevych, I., 2005. Using the Structure of a Conceptual Network in Computing Semantic Relatedness, in: Natural Language Processing IJCNLP 2005,Second International Joint Conference,Jeju Island, Korea, October 11-13, 2005, Proceedings. pp. 767–778.</li>
+  <li><a name="Gurevych2005">Gurevych, I., 2005. Using the Structure of a Conceptual Network in Computing Semantic Relatedness, in: Natural Language Processing IJCNLP 2005,Second International Joint Conference,Jeju Island, Korea, October 11-13, 2005, Proceedings. pp. 767–778.</a></li>
   <li>Joubarne, C., Inkpen, D., 2011. Comparison of Semantic Similarity for Different Languages Using the Google n-gram Corpus and Second-Order Co-occurrence Measures, in: Advances Artificial Intelligence - 24th Canadian Conference Artificial Intelligence, Canadian AI 2011, St.John’s, Canada, May 25-27, 2011. Proceedings. pp. 216–221.</li>
   <li>S.V.S. Pakhomov, T. Pedersen, B. McInnes, G.B. Melton, A. Ruggieri, C.G. Chute: Towards a framework for developing semantic relatedness reference standards J Biomed Inform, 44 (2011), pp. 251-265</li>
   <li>Pakhomov, S., McInnes, B., Adam, T., Liu, Y., Pedersen, T., Melton, G.B., 2010. Semantic Similarity and Relatedness between Clinical Terms: An Experimental Study. AMIA Annual Symposium proceedings / AMIA Symposium. AMIA Symposium 2010, 572–576.</li>
@@ -583,4 +599,5 @@ vector space modeling. arXiv preprint arXiv:1508.00106.</li>
 <li><a name="Tan2017">	Bui Van Tan, Nguyen Phuong Thai, Pham Van Lam: Construction of a word similarity dataset and evaluation of word similarity techniques for Vietnamese. KSE 2017: Hue, Vietnam, 65-70.</a></li>
 <li><a name="Ugur2016">Ugur Sopaoglu and Gonenc Ercan. Evaluation of Semantic Relatedness Measures for Turkish Language. In Proceedings of the 17th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2016), Konya, Turkey, 2016.</a></li>
 <li><a name="Ercan2018">Gökhan Ercan, Olcay Taner Yildiz: AnlamVer: Semantic Model Evaluation Dataset for Turkish - Word Similarity and Relatedness. COLING 2018: 3819-3836</a></li>
+<li><a name="Zesch2006">Zesch, T., Gurevych, I., 2006. Automatically creating datasets for measures of semantic relatedness, in: COLING/ACL2006Workshop Linguistic Distances. Sydney, Australia, pp. 16–24.</a></li>
 </ol>
