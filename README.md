@@ -652,5 +652,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Ercan2018">Gökhan Ercan, Olcay Taner Yildiz: AnlamVer: Semantic Model Evaluation Dataset for Turkish - Word Similarity and Relatedness. COLING 2018: 3819-3836</a></li>
 <li><a name="Zesch2006">Zesch, T., Gurevych, I., 2006. Automatically creating datasets for measures of semantic relatedness, in: COLING/ACL 2006 Workshop Linguistic Distances. Sydney, Australia, pp. 16–24.</a></li>
 <li><a name="Akhtar2017">Akhtar, S.S., Gupta, A., Vajpayee, A., Srivastava, A., Shrivastava, M., 2017. Word Similarity Datasets for Indian Languages: Annotation and Baseline Systems, in: LAW@ACL. Association for Computational Linguistics, pp. 91–94.</a></li>
-<li><a name="Agoston">How Similar: Word Similarity Judgments in English and Hungarian, Ágoston Tóth, 2013.</a></li>
+<li><a name="Agoston">Ágoston Tóth: How Similar: Word Similarity Judgments in English and Hungarian,  2013.</a></li>
 </ol>
