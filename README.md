@@ -304,12 +304,36 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 250px;" colspan="6" align="center"><b><i>Japenese (JA)</td>
 </tr>
 <tr>
-<td style="width: 55px;"></td>
-<td style="width: 47px;"></td>
-<td style="width: 32px;"></td>
+<td style="width: 55px;">JWSD_Noun</td>
+<td style="width: 47px;">1103</td>
+<td style="width: 32px;">2017</td>
 <td style="width: 34px;"></td>
-<td style="width: 23px;"></td>
-  <td style="width: 29px;"><a href="">link</a></td>
+  <td style="width: 23px;"><a href="#Sakaizawa2017">(Sakaizawa and Komachi, 2017)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/tmu-nlp/JapaneseWordSimilarityDataset/blob/master/score_noun.csv">link1</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;">JWSD_Verb</td>
+<td style="width: 47px;">1464</td>
+<td style="width: 32px;">2017</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Sakaizawa2017">(Sakaizawa and Komachi, 2017)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/tmu-nlp/JapaneseWordSimilarityDataset/blob/master/score_verb.csv">link1</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;">JWSD_Adjective</td>
+<td style="width: 47px;">960</td>
+<td style="width: 32px;">2017</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Sakaizawa2017">(Sakaizawa and Komachi, 2017)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/tmu-nlp/JapaneseWordSimilarityDataset/blob/master/score_adj.csv">link1</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;">JWSD_Adverb</td>
+<td style="width: 47px;">902</td>
+<td style="width: 32px;">2017</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Sakaizawa2017">(Sakaizawa and Komachi, 2017)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/tmu-nlp/JapaneseWordSimilarityDataset/blob/master/score_adv.csv">link1</a></td>
 </tr>
     <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Persian (FA)</td>
@@ -653,4 +677,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Zesch2006">Zesch, T., Gurevych, I., 2006. Automatically creating datasets for measures of semantic relatedness, in: COLING/ACL 2006 Workshop Linguistic Distances. Sydney, Australia, pp. 16–24.</a></li>
 <li><a name="Akhtar2017">Akhtar, S.S., Gupta, A., Vajpayee, A., Srivastava, A., Shrivastava, M., 2017. Word Similarity Datasets for Indian Languages: Annotation and Baseline Systems, in: LAW@ACL. Association for Computational Linguistics, pp. 91–94.</a></li>
 <li><a name="Agoston">Ágoston Tóth: How Similar: Word Similarity Judgments in English and Hungarian,  2013.</a></li>
+<li><a name="Sakaizawa2017">Sakaizawa, Y., Komachi, M., 2017. Construction of a Japanese Word Similarity Dataset. CoRR abs/1703.05916.</a></li>
 </ol>
