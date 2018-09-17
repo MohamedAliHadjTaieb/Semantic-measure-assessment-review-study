@@ -307,7 +307,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 55px;">JWSD_Noun</td>
 <td style="width: 47px;">1103</td>
 <td style="width: 32px;">2017</td>
-<td style="width: 34px;"></td>
+<td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Sakaizawa2017">(Sakaizawa and Komachi, 2017)</a></td>
   <td style="width: 29px;"><a href="https://github.com/tmu-nlp/JapaneseWordSimilarityDataset/blob/master/score_noun.csv">link1</a></td>
 </tr>
