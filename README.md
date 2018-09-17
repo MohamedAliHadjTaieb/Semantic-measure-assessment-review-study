@@ -362,7 +362,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">65</td>
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
-<td style="width: 23px;">(Camacho-Collados et al., 2015)</td>
+  <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al., 2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/datasets/rg65_spanish.txt">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Spanish/Semantic%20Similarity/RG65_ES.csv">link2</a></td>
 </tr>
      <tr>
@@ -612,7 +612,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">589</td>
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Rel</td>
-<td style="width: 23px;">(Camacho-Collados et al.,2015)</td>
+  <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/WordSim353_Cross_DE_IT_589.csv">link2</a></td>
 </tr>
 </tbody>
@@ -625,7 +625,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Rubenstein, H., Goodenough, J.B., 1965. Contextual Correlates of Synonymy. Commun. ACM 8, 627–633.</li>
   <li>Miller, G.A., Charles, W.G., 1991. Contextual correlates of semantic similarity. Language & Cognitive Processes 6, 1–28.</li>
   <li>Wu, Y., Li, W., 2016. Overview of the NLPCC-ICCPOL 2016 Shared Task: Chinese Word Similarity Measurement, in: Natural Language Understanding Intelligent Applications - 5th CCF Conference Natural Language Processing Chinese Computing, NLPCC 2016, 24th International Conference Computer Processing Oriental Languages, ICCPOL2016, Kunming, China, December 26, 2016, Proceedings. pp. 828–839.</li>
-  <li>Camacho-Collados, J., Pilehvar, M.T., Navigli, R., 2015. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets, in: ACL(2). The Association for Computer Linguistics, pp. 1–7.</li>
+  <li><a name="Camacho2015" >Camacho-Collados, J., Pilehvar, M.T., Navigli, R., 2015. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets, in: ACL(2). The Association for Computer Linguistics, pp. 1–7.</a></li>
   <li><a name="Gurevych2005">Gurevych, I., 2005. Using the Structure of a Conceptual Network in Computing Semantic Relatedness, in: Natural Language Processing IJCNLP 2005,Second International Joint Conference,Jeju Island, Korea, October 11-13, 2005, Proceedings. pp. 767–778.</a></li>
   <li>Joubarne, C., Inkpen, D., 2011. Comparison of Semantic Similarity for Different Languages Using the Google n-gram Corpus and Second-Order Co-occurrence Measures, in: Advances Artificial Intelligence - 24th Canadian Conference Artificial Intelligence, Canadian AI 2011, St.John’s, Canada, May 25-27, 2011. Proceedings. pp. 216–221.</li>
   <li>S.V.S. Pakhomov, T. Pedersen, B. McInnes, G.B. Melton, A. Ruggieri, C.G. Chute: Towards a framework for developing semantic relatedness reference standards J Biomed Inform, 44 (2011), pp. 251-265</li>
