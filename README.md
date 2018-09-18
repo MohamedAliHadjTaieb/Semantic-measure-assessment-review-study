@@ -685,5 +685,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Akhtar2017">Akhtar, S.S., Gupta, A., Vajpayee, A., Srivastava, A., Shrivastava, M., 2017. Word Similarity Datasets for Indian Languages: Annotation and Baseline Systems, in: LAW@ACL. Association for Computational Linguistics, pp. 91–94.</a></li>
 <li><a name="Agoston">Ágoston Tóth: How Similar: Word Similarity Judgments in English and Hungarian,  2013.</a></li>
 <li><a name="Sakaizawa2017">Sakaizawa, Y., Komachi, M., 2017. Construction of a Japanese Word Similarity Dataset. CoRR abs/1703.05916.</a></li>
-<li><a name="Li2013">Li, P., Wang, H., Zhu, K.Q., Wang, Z., Wu, X., 2013. Computing Term Similarity by Large Probabilistic is A Knowledge, in: Proceedings 22Nd ACM International ConferenceConference Information &#38; Knowledge Management, CIKM’13. ACM, San Francisco, California, USA, pp. 1401–1410</a></li>
+<li><a name="Li2013">Li, P., Wang, H., Zhu, K.Q., Wang, Z., Wu, X., 2013. Computing Term Similarity by Large Probabilistic is A Knowledge, in: Proceedings 22Nd ACM International Conference Conference Information; Knowledge Management, CIKM’13. ACM, San Francisco, California, USA, pp. 1401–1410</a></li>
 </ol>
