@@ -55,7 +55,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">500</td>
 <td style="width: 32px;">2016</td>
 <td style="width: 34px;">Sim</td>
-<td style="width: 23px;">(Wu and Li, 2016)</td>
+  <td style="width: 23px;"><a href="#Wu2016">(Wu and Li, 2016)</a></td>
   <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Chinese/Semantic%20Similarity/PKU500_CN.csv">link1</a><br><a href="https://github.com/commonsense/conceptnet5/blob/master/conceptnet5/support_data/pku-500/pku-500.csv">link2</a></td>
 </tr>
 <tr>
@@ -656,7 +656,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Saif2014">Saif, A., Aziz, M.J.A., Omar, N., 2014. Evaluating knowledge-based semantic measures on Arabic. International Journal on Communications Antenna and Propagation 4, 180–194.</a></li>
   <li>Rubenstein, H., Goodenough, J.B., 1965. Contextual Correlates of Synonymy. Commun. ACM 8, 627–633.</li>
   <li>Miller, G.A., Charles, W.G., 1991. Contextual correlates of semantic similarity. Language & Cognitive Processes 6, 1–28.</li>
-  <li>Wu, Y., Li, W., 2016. Overview of the NLPCC-ICCPOL 2016 Shared Task: Chinese Word Similarity Measurement, in: Natural Language Understanding Intelligent Applications - 5th CCF Conference Natural Language Processing Chinese Computing, NLPCC 2016, 24th International Conference Computer Processing Oriental Languages, ICCPOL2016, Kunming, China, December 26, 2016, Proceedings. pp. 828–839.</li>
+  <li><a href="Wu2016">Wu, Y., Li, W., 2016. Overview of the NLPCC-ICCPOL 2016 Shared Task: Chinese Word Similarity Measurement, in: Natural Language Understanding Intelligent Applications - 5th CCF Conference Natural Language Processing Chinese Computing, NLPCC 2016, 24th International Conference Computer Processing Oriental Languages, ICCPOL2016, Kunming, China, December 26, 2016, Proceedings. pp. 828–839.</a></li>
   <li><a name="Camacho2015" >Camacho-Collados, J., Pilehvar, M.T., Navigli, R., 2015. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets, in: ACL(2). The Association for Computer Linguistics, pp. 1–7.</a></li>
   <li><a name="Gurevych2005">Gurevych, I., 2005. Using the Structure of a Conceptual Network in Computing Semantic Relatedness, in: Natural Language Processing IJCNLP 2005,Second International Joint Conference,Jeju Island, Korea, October 11-13, 2005, Proceedings. pp. 767–778.</a></li>
   <li>Joubarne, C., Inkpen, D., 2011. Comparison of Semantic Similarity for Different Languages Using the Google n-gram Corpus and Second-Order Co-occurrence Measures, in: Advances Artificial Intelligence - 24th Canadian Conference Artificial Intelligence, Canadian AI 2011, St.John’s, Canada, May 25-27, 2011. Proceedings. pp. 216–221.</li>
