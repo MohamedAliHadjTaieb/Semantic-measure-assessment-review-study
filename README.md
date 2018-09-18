@@ -113,7 +113,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Li2013"> (Li et al., 2013)</a></td>
-<td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/WP300.csv">link</a></td>
 </tr>
 <tr>
 <td style="width: 55px;">MTurk</td>
