@@ -520,7 +520,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">66</td>
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Rel</td>
-<td style="width: 23px;">(Chen et al.,2018)</td>
+  <td style="width: 23px;"><a href="#Chen2018">(Chen et al.,2018)</a></td>
   <td style="width: 29px;"><a href="https://github.com/iamxiatian/wikit/blob/master/expt/dataset/words-240/Words-240.txt">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Biomedical%20Datasets/Chinese/Semantic%20Relatedness/Words-240-CN.csv">link2</a></td>
 </tr>
 </tbody>
@@ -661,7 +661,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Joubarne, C., Inkpen, D., 2011. Comparison of Semantic Similarity for Different Languages Using the Google n-gram Corpus and Second-Order Co-occurrence Measures, in: Advances Artificial Intelligence - 24th Canadian Conference Artificial Intelligence, Canadian AI 2011, St.John’s, Canada, May 25-27, 2011. Proceedings. pp. 216–221.</li>
   <li>S.V.S. Pakhomov, T. Pedersen, B. McInnes, G.B. Melton, A. Ruggieri, C.G. Chute: Towards a framework for developing semantic relatedness reference standards J Biomed Inform, 44 (2011), pp. 251-265</li>
   <li>Pakhomov, S., McInnes, B., Adam, T., Liu, Y., Pedersen, T., Melton, G.B., 2010. Semantic Similarity and Relatedness between Clinical Terms: An Experimental Study. AMIA Annual Symposium proceedings / AMIA Symposium. AMIA Symposium 2010, 572–576.</li>
-  <li>Zugang Chen, Jia Song and Yaping Yang: An Approach to Measuring Semantic Relatedness of Geographic Terminologies Using a Thesaurus and Lexical Database Sources, International Journal of Geo-Information, 2018.</li>
+  <li><a name="Chen2018">Zugang Chen, Jia Song and Yaping Yang: An Approach to Measuring Semantic Relatedness of Geographic Terminologies Using a Thesaurus and Lexical Database Sources, International Journal of Geo-Information, 2018.</a></li>
   <li>X. Wang, Y. Jia, B. Zhou, Z. Ding, Z. Liang: Computing semantic relatedness using Chinese Wikipedia links and taxonomy, J. Chinese Comput. Syst., 32 (11) (2012), pp. 2237-2242</il>
   <li><a name="Cramer2008">Cramer, I., Finthammer, M., 2008. An Evaluation Procedure for Word Net Based Lexical Chaining: Methods and Issues, in: Proceedings Fourth Global WordNet Conference (GWC 2008). University of Szeged, Department of Informatics, Szeged, Ungarn.</a></li>
   <li>Felix Hill, Roi Reichart, and Anna Korhonen. 2015. SimLex-999: Evaluating semantic models with (genuine) similarity estimation. Computational Linguistics, 41(4):665–695.</li>
