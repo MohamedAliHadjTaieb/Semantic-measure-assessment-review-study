@@ -107,7 +107,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 23px;"> (Hill et al., 2015)</td>
 <td style="width: 29px;"><a href="https://fh295.github.io//simlex.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SimLex999_EN.csv">link2</a></td>
 </tr>
-
+<tr>
+<td style="width: 55px;">MWE</td>
+<td style="width: 47px;">300</td>
+<td style="width: 32px;">2013</td>
+<td style="width: 34px;">Sim</td>
+  <td style="width: 23px;"><a href="#Li2013"> (Li et al., 2013)</a></td>
+<td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+</tr>
 <tr>
 <td style="width: 55px;">MTurk</td>
 <td style="width: 47px;">287</td>
@@ -678,4 +685,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Akhtar2017">Akhtar, S.S., Gupta, A., Vajpayee, A., Srivastava, A., Shrivastava, M., 2017. Word Similarity Datasets for Indian Languages: Annotation and Baseline Systems, in: LAW@ACL. Association for Computational Linguistics, pp. 91–94.</a></li>
 <li><a name="Agoston">Ágoston Tóth: How Similar: Word Similarity Judgments in English and Hungarian,  2013.</a></li>
 <li><a name="Sakaizawa2017">Sakaizawa, Y., Komachi, M., 2017. Construction of a Japanese Word Similarity Dataset. CoRR abs/1703.05916.</a></li>
+<li><a name="Li2013">Li, P., Wang, H., Zhu, K.Q., Wang, Z., Wu, X., 2013. Computing Term Similarity by Large Probabilistic is A Knowledge, in: Proceedings 22Nd ACM International ConferenceConference Information &#38; Knowledge Management, CIKM’13. ACM, San Francisco, California, USA, pp. 1401–1410</a></li>
 </ol>
