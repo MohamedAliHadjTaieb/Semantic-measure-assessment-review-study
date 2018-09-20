@@ -108,7 +108,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 29px;"><a href="https://fh295.github.io//simlex.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SimLex999_EN.csv">link2</a></td>
 </tr>
 <tr>
-<td style="width: 55px;">MWE</td>
+<td style="width: 55px;">WP</td>
 <td style="width: 47px;">300</td>
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">Sim</td>
@@ -173,6 +173,22 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/RW2034.csv">link1</a><br><a href="http://www.bigdatalab.ac.cn/benchmark/bm/dd?data=Rare%20Word">link2</a><br><a href="https://nlp.stanford.edu/~lmthang/morphoNLM/">link3</a></td>
 </tr>
      <tr>
+<td style="width: 55px;">YP_Verb</td>
+<td style="width: 47px;">130</td>
+<td style="width: 32px;">2006</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#">()</a></td>
+<td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+</tr>
+         <tr>
+<td style="width: 55px;">SimVerb</td>
+<td style="width: 47px;">3500</td>
+<td style="width: 32px;">&nbsp;</td>
+<td style="width: 34px;">&nbsp;</td>
+<td style="width: 23px;"><a href="#">()</a></td>
+<td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+</tr>
+         <tr>
 <td style="width: 55px;">&nbsp;</td>
 <td style="width: 47px;">&nbsp;</td>
 <td style="width: 32px;">&nbsp;</td>
