@@ -183,8 +183,8 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
          <tr>
 <td style="width: 55px;">SimVerb</td>
 <td style="width: 47px;">3500</td>
-<td style="width: 32px;">&nbsp;</td>
-<td style="width: 34px;">&nbsp;</td>
+<td style="width: 32px;">2016</td>
+<td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#">()</a></td>
 <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
 </tr>
