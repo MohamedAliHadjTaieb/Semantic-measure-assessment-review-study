@@ -286,20 +286,20 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Tamil-WS-Indian97.csv">link</a></td>
 </tr>
     <tr>
-<td style="width: 55px;"></td>
-<td style="width: 47px;"></td>
-<td style="width: 32px;"></td>
-<td style="width: 34px;"></td>
-<td style="width: 23px;"></td>
-  <td style="width: 29px;"><a href="">link</a></td>
+<td style="width: 55px;">Telugu-WS-Indian</td>
+<td style="width: 47px;">111</td>
+<td style="width: 32px;">2017</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Akhtar2017">(Akhtar et al., 2017)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Telugu-WS-Indian111.csv">link</a></td>
 </tr>
     <tr>
-<td style="width: 55px;"></td>
-<td style="width: 47px;"></td>
-<td style="width: 32px;"></td>
-<td style="width: 34px;"></td>
-<td style="width: 23px;"></td>
-  <td style="width: 29px;"><a href="">link</a></td>
+<td style="width: 55px;">Urdu-WS-Indian</td>
+<td style="width: 47px;">100</td>
+<td style="width: 32px;">2017</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Akhtar2017">(Akhtar et al., 2017)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Urdu-WS-Indian100.csv">link</a></td>
 </tr>
      <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Hungarian (HU)</td>
