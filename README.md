@@ -189,12 +189,12 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
 </tr>
          <tr>
-<td style="width: 55px;">&nbsp;</td>
-<td style="width: 47px;">&nbsp;</td>
-<td style="width: 32px;">&nbsp;</td>
-<td style="width: 34px;">&nbsp;</td>
-<td style="width: 23px;">&nbsp;</td>
-<td style="width: 29px;">&nbsp;</td>
+<td style="width: 55px;">RD_Verb</td>
+<td style="width: 47px;">37</td>
+<td style="width: 32px;">2000</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#">()</a></td>
+<td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
 </tr>
   <tr>
 <td style="width: 55px;" colspan="6" align="center"><b><i>French (FR)</td>
