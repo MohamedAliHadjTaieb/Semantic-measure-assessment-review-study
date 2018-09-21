@@ -703,4 +703,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Agoston">Ágoston Tóth: How Similar: Word Similarity Judgments in English and Hungarian,  2013.</a></li>
 <li><a name="Sakaizawa2017">Sakaizawa, Y., Komachi, M., 2017. Construction of a Japanese Word Similarity Dataset. CoRR abs/1703.05916.</a></li>
 <li><a name="Li2013">Li, P., Wang, H., Zhu, K.Q., Wang, Z., Wu, X., 2013. Computing Term Similarity by Large Probabilistic is A Knowledge, in: Proceedings 22Nd ACM International Conference Conference Information; Knowledge Management, CIKM’13. ACM, San Francisco, California, USA, pp. 1401–1410</a></li>
+<li><a name="Yang2006">Yang, D., Powers, D.M.W., 2006. Verb Similarity on the Taxonomy of Wordnet, in: In 3rd International WordNet Conference (GWC-06), Jeju Island, Korea.</a></li>
+<li><a name="Gerz2016">Gerz, D., Vulic, I., Hill, F., Reichart, R., Korhonen, A., 2016. SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity, in: Proceedings 2016 Conference Empirical Methods Natural Language Processing, EMNLP 2016, Austin, Texas, USA, November 1-4, 2016. pp. 2173–2182.</a></li>
+<li><a name="Resnik2000">Resnik, P., Diab, M.: Measuring verb similarity. In: Proceedings of the Twenty-second Annual Conference of the Cognitive Science Society: August 13-15, 2000, Institute for Research in Cognitive Science,University of Pennsylvania, Philadelphia, PA (2000)</a></li>
 </ol>
