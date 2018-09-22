@@ -100,6 +100,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/MC30.csv">link</a></td>
 </tr>
   <tr>
+<td style="width: 55px;">Martinez&Aldana</td>
+<td style="width: 47px;">28</td>
+<td style="width: 32px;">2013</td>
+<td style="width: 34px;">Sim</td>
+    <td style="width: 23px;"><a href="#Martinez2013">(Martinez-Gil and Aldana-Montes, 2013)</a></td>
+<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/Martinez%26Aldana_EN.csv">link</a></td>
+</tr>
+  <tr>
 <td style="width: 55px;">SimLex</td>
 <td style="width: 47px;">999</td>
 <td style="width: 32px;">2015</td>
@@ -706,4 +714,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Yang2006">Yang, D., Powers, D.M.W., 2006. Verb Similarity on the Taxonomy of Wordnet, in: In 3rd International WordNet Conference (GWC-06), Jeju Island, Korea.</a></li>
 <li><a name="Gerz2016">Gerz, D., Vulic, I., Hill, F., Reichart, R., Korhonen, A., 2016. SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity, in: Proceedings 2016 Conference Empirical Methods Natural Language Processing, EMNLP 2016, Austin, Texas, USA, November 1-4, 2016. pp. 2173–2182.</a></li>
 <li><a name="Resnik2000">Resnik, P., Diab, M.: Measuring verb similarity. In: Proceedings of the Twenty-second Annual Conference of the Cognitive Science Society: August 13-15, 2000, Institute for Research in Cognitive Science,University of Pennsylvania, Philadelphia, PA (2000)</a></li>
+<li><a name="Martinez2013">Martinez-Gil, J., Aldana-Montes, J.F. Semantic similarity measurement using historical google search patterns. Information Systems Frontiers 15(3): 399-410 (2013).</a></li>
 </ol>
