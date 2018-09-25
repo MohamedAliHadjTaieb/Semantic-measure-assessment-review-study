@@ -194,7 +194,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2016</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Gerz2016">(Gerz et al., 2016)</a></td>
-<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SimVerb3500.csv">link1</a><br><a href="https://github.com/undertheseanlp/underthesea/wiki/DATA-SIMVERB-3500">link2</a></td>
+<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SimVerb3500.csv">link1</a><br><a href="https://github.com/undertheseanlp/underthesea/wiki/DATA-SIMVERB-3500">link2</a><br><a href="https://github.com/benathi/word2gm/tree/master/evaluation_data/simverb/data">link3</a></td>
 </tr>
          <tr>
 <td style="width: 55px;">RD_Verb</td>
