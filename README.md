@@ -204,6 +204,14 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 23px;"><a href="#">()</a></td>
 <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
 </tr>
+             <tr>
+<td style="width: 55px;">Baker_Verb</td>
+<td style="width: 47px;">143</td>
+<td style="width: 32px;">2014</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Baker2014">(Baker et al., 2014)</a></td>
+<td style="width: 29px;"><a href="">link1</a><br><a href="https://ie.technion.ac.il/~roiri/">link2</a></td>
+</tr>
   <tr>
 <td style="width: 55px;" colspan="6" align="center"><b><i>French (FR)</td>
 </tr>
@@ -715,4 +723,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Gerz2016">Gerz, D., Vulic, I., Hill, F., Reichart, R., Korhonen, A., 2016. SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity, in: Proceedings 2016 Conference Empirical Methods Natural Language Processing, EMNLP 2016, Austin, Texas, USA, November 1-4, 2016. pp. 2173–2182.</a></li>
 <li><a name="Resnik2000">Resnik, P., Diab, M.: Measuring verb similarity. In: Proceedings of the Twenty-second Annual Conference of the Cognitive Science Society: August 13-15, 2000, Institute for Research in Cognitive Science,University of Pennsylvania, Philadelphia, PA (2000)</a></li>
 <li><a name="Martinez2013">Martinez-Gil, J., Aldana-Montes, J.F. Semantic similarity measurement using historical google search patterns. Information Systems Frontiers 15(3): 399-410 (2013).</a></li>
+<li><a name="Baker2014">Baker, S., Reichart, R., Korhonen, A., 2014. An Unsupervised Model for Instance Level Subcategorization Acquisition, in: Proceedings 2014 Conference Empirical Methods Natural Language Processing, EMNLP 2014, October 25-29, 2014, Doha, Qatar, A meeting SIGDAT, Special Interest Group ACL. pp. 278–289.<a></li>
 </ol>
