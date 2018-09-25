@@ -595,7 +595,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">FR</td>
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Sim</td>
-<td style="width: 23px;">(Barzegar et al., 2018)</td>
+        <td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2018)</a></td>
     <td style="width: 29px;"><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/fr-rg.dataset">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Multilingual%20Datasets/RG65/RG65_FR_2.csv">link2</a></td>
    </tr>
    <tr>
@@ -703,7 +703,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li>Radinsky, K., Agichtein, E., Gabrilovich, E., Markovitch, S., 2011. A Word at a Time: Computing Word Relatedness Using Temporal Semantic Analysis, in: Proceedings 20th International Conference World Wide Web, WWW’11. ACM, Hyderabad, India, pp. 337–346.</li>
 <li>Halawi, G., Dror, G., Gabrilovich, E., Koren, Y., 2012. Large-scale Learning of Word Relatedness with Constraints, in: Proceedings 18th ACM SIGKDD International Conference Knowledge Discovery Data Mining, KDD’12. ACM, Beijing, China, pp. 1406–1414.</il>
 <li><a name="Szumlanski2013">Szumlanski, S.R., Gomez, F., Sims, V.K., 2013. A New Set of Norms for Semantic Relatedness Measures., in: ACL(2). The Association for Computer Linguistics, pp. 890–895.</a></il>
-<li>Siamak Barzegar, Brian Davis, Manel Zarrouk, Siegfried Handschuh, André Freitas: SemR-11: A Multi-Lingual Gold-Standard for Semantic Similarity and Relatedness for Eleven Languages. LREC 2018</li>
+<li><a name="Barzegar2018>"Siamak Barzegar, Brian Davis, Manel Zarrouk, Siegfried Handschuh, André Freitas: SemR-11: A Multi-Lingual Gold-Standard for Semantic Similarity and Relatedness for Eleven Languages. LREC 2018</a></li>
 <li>	José Camacho-Collados, Mohammad Taher Pilehvar and Roberto Navigli. A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets. In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL), Short Papers, Beijing, China, July 27-29, 2015.</li>
 <li><a name="Granada2014">Granada, R., Santos, C.T. dos, Vieira, R., 2014. Comparing Semantic Relatedness between Word Pairs in Portuguese Using Wikipedia, in: Computational Processing Portuguese Language - 11th International Conference, PROPOR 2014, São Carlos/SP, Brazil, October 6-8, 2014. Proceedings. pp. 170–175.</a></il>
 <li><a name="Ziegler2006">Ziegler, C.-N., Simon, K., Lausen, G., 2006. Automatic Computation of Semantic Proximity Using Taxonomic Knowledge, in: Proceedings 15th ACM International Conference Information Knowledge Management, CIKM’06. ACM, Arlington, Virginia, USA, pp. 465–474.</a></li>
