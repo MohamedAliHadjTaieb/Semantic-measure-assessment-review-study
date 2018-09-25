@@ -683,7 +683,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </table>
 
 # References
-<ol>
+<ol align="justify">
 <li><a name="Almarsoomi2013">Almarsoomi, F.A., O’Shea, J., Bandar, Z., Crockett, K.A., 2013. AWSS: An Algorithm for Measuring Arabic Word Semantic Similarity</a></li>
 <li><a name="Saif2014">Saif, A., Aziz, M.J.A., Omar, N., 2014. Evaluating knowledge-based semantic measures on Arabic. International Journal on Communications Antenna and Propagation 4, 180–194.</a></li>
   <li>Rubenstein, H., Goodenough, J.B., 1965. Contextual Correlates of Synonymy. Commun. ACM 8, 627–633.</li>
@@ -723,5 +723,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Gerz2016">Gerz, D., Vulic, I., Hill, F., Reichart, R., Korhonen, A., 2016. SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity, in: Proceedings 2016 Conference Empirical Methods Natural Language Processing, EMNLP 2016, Austin, Texas, USA, November 1-4, 2016. pp. 2173–2182.</a></li>
 <li><a name="Resnik2000">Resnik, P., Diab, M.: Measuring verb similarity. In: Proceedings of the Twenty-second Annual Conference of the Cognitive Science Society: August 13-15, 2000, Institute for Research in Cognitive Science,University of Pennsylvania, Philadelphia, PA (2000)</a></li>
 <li><a name="Martinez2013">Martinez-Gil, J., Aldana-Montes, J.F. Semantic similarity measurement using historical google search patterns. Information Systems Frontiers 15(3): 399-410 (2013).</a></li>
-<li text-align="justify"><a name="Baker2014">Baker, S., Reichart, R., Korhonen, A., 2014. An Unsupervised Model for Instance Level Subcategorization Acquisition, in: Proceedings 2014 Conference Empirical Methods Natural Language Processing, EMNLP 2014, October 25-29, 2014, Doha, Qatar, A meeting SIGDAT, Special Interest Group ACL. pp. 278–289.<a></li>
+<li align="justify"><a name="Baker2014">Baker, S., Reichart, R., Korhonen, A., 2014. An Unsupervised Model for Instance Level Subcategorization Acquisition, in: Proceedings 2014 Conference Empirical Methods Natural Language Processing, EMNLP 2014, October 25-29, 2014, Doha, Qatar, A meeting SIGDAT, Special Interest Group ACL. pp. 278–289.<a></li>
 </ol>
