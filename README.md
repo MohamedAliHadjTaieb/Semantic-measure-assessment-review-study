@@ -128,7 +128,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">287</td>
 <td style="width: 32px;">2011</td>
 <td style="width: 34px;">Rel</td>
-<td style="width: 23px;">(Radinsky et al., 2011)</td>
+  <td style="width: 23px;"><a href="#Radinsky2011">(Radinsky et al., 2011)</a></td>
 <td style="width: 29px;"><a href="https://github.com/mfaruqui/word-vector-demo/blob/master/data/EN-MTurk-287.txt">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/MT287.csv">link2</a></td>
 </tr>
   <tr>
@@ -700,7 +700,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <li>Felix Hill, Roi Reichart, and Anna Korhonen. 2015. SimLex-999: Evaluating semantic models with (genuine) similarity estimation. Computational Linguistics, 41(4):665–695.</li>
   <li><a name="Leviant2015">Ira Leviant and Roi Reichart. 2015. Separated by an un-common language: Towards judgment language informed
   vector space modeling. arXiv preprint arXiv:1508.00106.</a></li>
-<li>Radinsky, K., Agichtein, E., Gabrilovich, E., Markovitch, S., 2011. A Word at a Time: Computing Word Relatedness Using Temporal Semantic Analysis, in: Proceedings 20th International Conference World Wide Web, WWW’11. ACM, Hyderabad, India, pp. 337–346.</li>
+<li><a name="Radinsky2011">Radinsky, K., Agichtein, E., Gabrilovich, E., Markovitch, S., 2011. A Word at a Time: Computing Word Relatedness Using Temporal Semantic Analysis, in: Proceedings 20th International Conference World Wide Web, WWW’11. ACM, Hyderabad, India, pp. 337–346.</a></li>
 <li>Halawi, G., Dror, G., Gabrilovich, E., Koren, Y., 2012. Large-scale Learning of Word Relatedness with Constraints, in: Proceedings 18th ACM SIGKDD International Conference Knowledge Discovery Data Mining, KDD’12. ACM, Beijing, China, pp. 1406–1414.</il>
 <li><a name="Szumlanski2013">Szumlanski, S.R., Gomez, F., Sims, V.K., 2013. A New Set of Norms for Semantic Relatedness Measures., in: ACL(2). The Association for Computer Linguistics, pp. 890–895.</a></il>
 <li><a name="Barzegar2018">Siamak Barzegar, Brian Davis, Manel Zarrouk, Siegfried Handschuh, André Freitas: SemR-11: A Multi-Lingual Gold-Standard for Semantic Similarity and Relatedness for Eleven Languages. LREC 2018</a></li>
