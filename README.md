@@ -206,11 +206,11 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </tr>
              <tr>
 <td style="width: 55px;">Baker_Verb</td>
-<td style="width: 47px;">143</td>
+<td style="width: 47px;">144</td>
 <td style="width: 32px;">2014</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Baker2014">(Baker et al., 2014)</a></td>
-<td style="width: 29px;"><a href="">link1</a><br><a href="https://ie.technion.ac.il/~roiri/">link2</a></td>
+<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/Baker_Verb_EN.csv">link1</a><br><a href="https://ie.technion.ac.il/~roiri/">link2</a></td>
 </tr>
   <tr>
 <td style="width: 55px;" colspan="6" align="center"><b><i>French (FR)</td>
