@@ -185,23 +185,23 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">130</td>
 <td style="width: 32px;">2006</td>
 <td style="width: 34px;">Sim</td>
-<td style="width: 23px;"><a href="#">()</a></td>
-<td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+<td style="width: 23px;"><a href="#Yang2006">(Yang and Powers, 2006)</a></td>
+<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/YP130.csv">link1</a></td>
 </tr>
          <tr>
 <td style="width: 55px;">SimVerb</td>
 <td style="width: 47px;">3500</td>
 <td style="width: 32px;">2016</td>
 <td style="width: 34px;">Sim</td>
-<td style="width: 23px;"><a href="#">()</a></td>
-<td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
+<td style="width: 23px;"><a href="#Gerz2016">(Gerz et al., 2016)</a></td>
+<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SimVerb3500.csv">link1</a><br>link2</td>
 </tr>
          <tr>
 <td style="width: 55px;">RD_Verb</td>
 <td style="width: 47px;">37</td>
 <td style="width: 32px;">2000</td>
 <td style="width: 34px;">Sim</td>
-<td style="width: 23px;"><a href="#">()</a></td>
+<td style="width: 23px;"><a href="#Resnik2000">(Resnik and Diab, 2000)</a></td>
 <td style="width: 29px;"><a href="">link1</a><br><a href="">link2</a></td>
 </tr>
              <tr>
