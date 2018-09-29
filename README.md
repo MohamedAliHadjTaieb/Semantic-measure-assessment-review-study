@@ -714,7 +714,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 55px;">French</td>
 <td style="width: 55px;">Persian</td>
 <td style="width: 47px;">100</td>
-<td style="width: 32px;"></td>
+<td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
@@ -724,108 +724,108 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 55px;">French</td>
 <td style="width: 55px;">Spanish</td>
 <td style="width: 47px;">103</td>
-<td style="width: 32px;"></td>
+<td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
 </tr>
    <tr>
-<td style="width: 55px;">RG65_DE_IT</td>
+<td style="width: 55px;">RG65_FR_DE</td>
+<td style="width: 55px;">French</td>
 <td style="width: 55px;">German</td>
-<td style="width: 55px;">Italian</td>
-<td style="width: 47px;">589</td>
+<td style="width: 47px;">96</td>
 <td style="width: 32px;">2015</td>
-<td style="width: 34px;">Rel</td>
+<td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
 </tr>
    <tr>
-<td style="width: 55px;">RG65_DE_IT</td>
-<td style="width: 55px;">German</td>
-<td style="width: 55px;">Italian</td>
-<td style="width: 47px;">589</td>
+<td style="width: 55px;">RG65_ES_PT</td>
+<td style="width: 55px;">Spanish</td>
+<td style="width: 55px;">Portuguese</td>
+<td style="width: 47px;">113</td>
 <td style="width: 32px;">2015</td>
-<td style="width: 34px;">Rel</td>
+<td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
 </tr>
    <tr>
-<td style="width: 55px;">RG65_DE_IT</td>
-<td style="width: 55px;">German</td>
-<td style="width: 55px;">Italian</td>
-<td style="width: 47px;">589</td>
+<td style="width: 55px;">RG65_ES_FA</td>
+<td style="width: 55px;">Spanish</td>
+<td style="width: 55px;">Persian</td>
+<td style="width: 47px;">122</td>
 <td style="width: 32px;">2015</td>
-<td style="width: 34px;">Rel</td>
+<td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
 </tr>
    <tr>
-<td style="width: 55px;">RG65_DE_IT</td>
-<td style="width: 55px;">German</td>
-<td style="width: 55px;">Italian</td>
-<td style="width: 47px;">589</td>
+<td style="width: 55px;">RG65_EN_PT</td>
+<td style="width: 55px;">English</td>
+<td style="width: 55px;">Portuguese</td>
+<td style="width: 47px;">120</td>
 <td style="width: 32px;">2015</td>
-<td style="width: 34px;">Rel</td>
+<td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
 </tr>
    <tr>
-<td style="width: 55px;">RG65_DE_IT</td>
-<td style="width: 55px;">German</td>
-<td style="width: 55px;">Italian</td>
-<td style="width: 47px;">589</td>
+<td style="width: 55px;">RG65_EN_FR</td>
+<td style="width: 55px;">English</td>
+<td style="width: 55px;">French</td>
+<td style="width: 47px;">100</td>
 <td style="width: 32px;">2015</td>
-<td style="width: 34px;">Rel</td>
+<td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
 </tr>
    <tr>
-<td style="width: 55px;">RG65_DE_IT</td>
-<td style="width: 55px;">German</td>
-<td style="width: 55px;">Italian</td>
-<td style="width: 47px;">589</td>
+<td style="width: 55px;">RG65_EN_FA</td>
+<td style="width: 55px;">English</td>
+<td style="width: 55px;">Persian</td>
+<td style="width: 47px;">120</td>
 <td style="width: 32px;">2015</td>
-<td style="width: 34px;">Rel</td>
+<td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
 </tr>
    <tr>
-<td style="width: 55px;">RG65_DE_IT</td>
-<td style="width: 55px;">German</td>
-<td style="width: 55px;">Italian</td>
-<td style="width: 47px;">589</td>
+<td style="width: 55px;">RG65_EN_ES</td>
+<td style="width: 55px;">English</td>
+<td style="width: 55px;">Spanish</td>
+<td style="width: 47px;">126</td>
 <td style="width: 32px;">2015</td>
-<td style="width: 34px;">Rel</td>
+<td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
 </tr>
    <tr>
-<td style="width: 55px;">RG65_DE_IT</td>
+<td style="width: 55px;">RG65_EN_DE</td>
+<td style="width: 55px;">English</td>
 <td style="width: 55px;">German</td>
-<td style="width: 55px;">Italian</td>
-<td style="width: 47px;">589</td>
+<td style="width: 47px;">125</td>
 <td style="width: 32px;">2015</td>
-<td style="width: 34px;">Rel</td>
+<td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
 </tr>
    <tr>
-<td style="width: 55px;">RG65_DE_IT</td>
+<td style="width: 55px;">RG65_DE_PT</td>
 <td style="width: 55px;">German</td>
-<td style="width: 55px;">Italian</td>
-<td style="width: 47px;">589</td>
+<td style="width: 55px;">Portuguese</td>
+<td style="width: 47px;">118</td>
 <td style="width: 32px;">2015</td>
-<td style="width: 34px;">Rel</td>
+<td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
 </tr>
    <tr>
-<td style="width: 55px;">RG65_DE_IT</td>
+<td style="width: 55px;">RG65_DE_FA</td>
 <td style="width: 55px;">German</td>
-<td style="width: 55px;">Italian</td>
-<td style="width: 47px;">589</td>
+<td style="width: 55px;">Persian</td>
+<td style="width: 47px;">122</td>
 <td style="width: 32px;">2015</td>
-<td style="width: 34px;">Rel</td>
+<td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
   <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
 </tr>
