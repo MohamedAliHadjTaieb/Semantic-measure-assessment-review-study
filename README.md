@@ -687,7 +687,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;"></td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_DE_ES_125.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_PT_FA</td>
@@ -697,7 +697,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;"></td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_PT_FA_122.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_FR_PT</td>
@@ -707,7 +707,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;"></td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_FR_PT_92.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_FR_FA</td>
@@ -717,7 +717,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_FR_FA_100.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_FR_ES</td>
@@ -727,7 +727,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_FR_ES_103.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_FR_DE</td>
@@ -737,7 +737,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_FR_DE_96.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_ES_PT</td>
@@ -747,7 +747,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_ES_PT_113.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_ES_FA</td>
@@ -757,7 +757,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_ES_FA_122.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_EN_PT</td>
@@ -767,7 +767,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_EN_PT_120.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_EN_FR</td>
@@ -777,7 +777,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_EN_FR_100.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_EN_FA</td>
@@ -787,7 +787,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_EN_FA_120.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_EN_ES</td>
@@ -797,7 +797,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_EN_ES_126.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_EN_DE</td>
@@ -807,7 +807,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_EN_DE_125.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_DE_PT</td>
@@ -817,7 +817,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_DE_PT_118.csv">link2</a></td>
 </tr>
    <tr>
 <td style="width: 55px;">RG65_DE_FA</td>
@@ -827,7 +827,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Camacho2015">(Camacho-Collados et al.,2015)</a></td>
-  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="">link2</a></td>
+  <td style="width: 29px;"><a href="http://lcl.uniroma1.it/similarity-datasets/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Cross%20Lingual%20Datasets/RG65_DE_FA_122.csv">link2</a></td>
 </tr>
 </tbody>
 </table>
