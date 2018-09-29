@@ -146,7 +146,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">7576</td>
 <td style="width: 32px;">2014</td>
 <td style="width: 34px;">sim</td>
-      <td style="width: 23px;"><a href="#Szumlanski2013">(Szumlanski et al., 2013)</a></td>
+      <td style="width: 23px;"><a href="#Silberer2014">(Silberer and Lapata, 2014)</a></td>
 <td style="width: 29px;"><a href="http://homepages.inf.ed.ac.uk/s1151656/resources.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SL7576_EN.csv">link2</a></td>
 </tr>
       <tr>
@@ -154,7 +154,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">122</td>
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">rel</td>
-      <td style="width: 23px;"><a href="#Silberer2014">(Silberer and Lapata, 2014)</a></td>
+      <td style="width: 23px;"><a href="#Szumlanski2013">(Szumlanski et al., 2013)</a></td>
 <td style="width: 29px;"><a href="http://www.cs.ucf.edu/~seansz/rel-122/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Rel122.csv">link2</a></td>
 </tr>
   <tr>
