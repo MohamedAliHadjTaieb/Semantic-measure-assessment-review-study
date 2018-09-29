@@ -142,11 +142,19 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 </tr>
   <tr>
     <tr>
+<td style="width: 55px;">SL</td>
+<td style="width: 47px;">7576</td>
+<td style="width: 32px;">2014</td>
+<td style="width: 34px;">sim</td>
+      <td style="width: 23px;"><a href="#Szumlanski2013">(Szumlanski et al., 2013)</a></td>
+<td style="width: 29px;"><a href="http://homepages.inf.ed.ac.uk/s1151656/resources.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SL7576_EN.csv">link2</a></td>
+</tr>
+      <tr>
 <td style="width: 55px;">Rel</td>
 <td style="width: 47px;">122</td>
 <td style="width: 32px;">2013</td>
-<td style="width: 34px;">Rel</td>
-      <td style="width: 23px;"><a href="#Szumlanski2013">(Szumlanski et al., 2013)</a></td>
+<td style="width: 34px;">rel</td>
+      <td style="width: 23px;"><a href="#Silberer2014">(Silberer and Lapata, 2014)</a></td>
 <td style="width: 29px;"><a href="http://www.cs.ucf.edu/~seansz/rel-122/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Rel122.csv">link2</a></td>
 </tr>
   <tr>
@@ -874,4 +882,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Resnik2000">Resnik, P., Diab, M.: Measuring verb similarity. In: Proceedings of the Twenty-second Annual Conference of the Cognitive Science Society: August 13-15, 2000, Institute for Research in Cognitive Science,University of Pennsylvania, Philadelphia, PA (2000)</a></li>
 <li><a name="Martinez2013">Martinez-Gil, J., Aldana-Montes, J.F. Semantic similarity measurement using historical google search patterns. Information Systems Frontiers 15(3): 399-410 (2013).</a></li>
 <li align="justify"><a name="Baker2014">Baker, S., Reichart, R., Korhonen, A., 2014. An Unsupervised Model for Instance Level Subcategorization Acquisition, in: Proceedings 2014 Conference Empirical Methods Natural Language Processing, EMNLP 2014, October 25-29, 2014, Doha, Qatar, A meeting SIGDAT, Special Interest Group ACL. pp. 278–289.<a></li>
+ <li><a name="Silberer2014">Carina Silberer and Mirella Lapata. 2014. Learning Grounded Meaning Representations with Autoencoders. In Proceedings of ACL 2014, Baltimore, MD.</a></li>
 </ol>
