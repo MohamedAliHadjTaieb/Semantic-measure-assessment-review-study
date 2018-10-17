@@ -74,12 +74,36 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 250px;" colspan="6" align="center"><b><i>Dutch (NL)</td>
 </tr>
 <tr>
-<td style="width: 55px;"></td>
-<td style="width: 47px;"></td>
-<td style="width: 32px;"></td>
-<td style="width: 34px;"></td>
-<td style="width: 23px;"></td>
-  <td style="width: 29px;"><a href="">link</a></td>
+<td style="width: 55px;">MC</td>
+<td style="width: 47px;">30</td>
+<td style="width: 32px;">2018</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-mc.dataset">link2</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;">RG</td>
+<td style="width: 47px;">65</td>
+<td style="width: 32px;">2018</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-rg.dataset">link2</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;">SimLex</td>
+<td style="width: 47px;">999</td>
+<td style="width: 32px;">2018</td>
+<td style="width: 34px;">Sim</td>
+<td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
+  <td style="width: 29px;"><a href="">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-simlex.dataset">link2</a></td>
+</tr>
+    <tr>
+<td style="width: 55px;">WordSim</td>
+<td style="width: 47px;">353</td>
+<td style="width: 32px;">2018</td>
+<td style="width: 34px;">Rel</td>
+<td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
+  <td style="width: 29px;"><a href="">link</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-ws353.dataset">link2</a></td>
 </tr>
 <td style="width: 55px;" colspan="6" align="center"><b><i>English (EN)</td>
 </tr>
