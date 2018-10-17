@@ -67,7 +67,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 47px;">353</td>
 <td style="width: 32px;">2016</td>
 <td style="width: 34px;">Rel</td>
-  <td style="width: 23px;"><a href="#Cinková2016">(Cinková, 2016)</a></td>
+  <td style="width: 23px;"><a href="#Cinkova2016">(Cinková, 2016)</a></td>
   <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Czech/Semantic%20Relatedness/WordSim353_CS.csv">link1</a><br><a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1713?show=full">link2</a></td>
 </tr>
     <tr>
