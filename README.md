@@ -63,12 +63,12 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 250px;" colspan="6" align="center"><b><i>Czech (CS)</td>
 </tr>
 <tr>
-<td style="width: 55px;"></td>
-<td style="width: 47px;"></td>
-<td style="width: 32px;"></td>
-<td style="width: 34px;"></td>
-<td style="width: 23px;"></td>
-  <td style="width: 29px;"><a href="">link</a></td>
+<td style="width: 55px;">WordSim</td>
+<td style="width: 47px;">353</td>
+<td style="width: 32px;">2016</td>
+<td style="width: 34px;">Rel</td>
+  <td style="width: 23px;"><a href="#Cinková2016">(Cinková, 2016)</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Czech/Semantic%20Relatedness/WordSim353_CS.csv">link1</a><br><a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1713?show=full">link2</a></td>
 </tr>
     <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Dutch (NL)</td>
@@ -883,4 +883,5 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <li><a name="Martinez2013">Martinez-Gil, J., Aldana-Montes, J.F. Semantic similarity measurement using historical google search patterns. Information Systems Frontiers 15(3): 399-410 (2013).</a></li>
 <li align="justify"><a name="Baker2014">Baker, S., Reichart, R., Korhonen, A., 2014. An Unsupervised Model for Instance Level Subcategorization Acquisition, in: Proceedings 2014 Conference Empirical Methods Natural Language Processing, EMNLP 2014, October 25-29, 2014, Doha, Qatar, A meeting SIGDAT, Special Interest Group ACL. pp. 278–289.<a></li>
  <li><a name="Silberer2014">Carina Silberer and Mirella Lapata. 2014. Learning Grounded Meaning Representations with Autoencoders. In Proceedings of ACL 2014, Baltimore, MD.</a></li>
+  <li> <a name="Cinkova">Cinková, S., 2016. WordSim353 for Czech, in: Sojka, P., Horák, A., Kopecek, I., Pala, K. (Eds.), Text,Speech, Dialogue: 19th International Conference, TSD 2016, Brno , Czech Republic, September 12-16, 2016, Proceedings. Springer International Publishing, Cham, pp. 190–197.</a></li>
 </ol>
