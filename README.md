@@ -79,7 +79,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
-  <td style="width: 29px;"><a href="">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-mc.dataset">link2</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Similarity/MC30_NL.csv">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-mc.dataset">link2</a></td>
 </tr>
     <tr>
 <td style="width: 55px;">RG</td>
@@ -87,7 +87,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
-  <td style="width: 29px;"><a href="">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-rg.dataset">link2</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Similarity/RG65_NL.csv">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-rg.dataset">link2</a></td>
 </tr>
     <tr>
 <td style="width: 55px;">SimLex</td>
@@ -95,7 +95,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
-  <td style="width: 29px;"><a href="">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-simlex.dataset">link2</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Similarity/SimLex999_NL.csv">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-simlex.dataset">link2</a></td>
 </tr>
     <tr>
 <td style="width: 55px;">WordSim</td>
@@ -103,7 +103,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Rel</td>
 <td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
-  <td style="width: 29px;"><a href="">link</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-ws353.dataset">link2</a></td>
+  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Relatedness/WordSim353_NL.csv">link</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-ws353.dataset">link2</a></td>
 </tr>
 <td style="width: 55px;" colspan="6" align="center"><b><i>English (EN)</td>
 </tr>
