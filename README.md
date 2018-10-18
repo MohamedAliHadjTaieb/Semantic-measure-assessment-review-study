@@ -171,7 +171,7 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 32px;">2014</td>
 <td style="width: 34px;">sim</td>
       <td style="width: 23px;"><a href="#Silberer2014">(Silberer and Lapata, 2014)</a></td>
-<td style="width: 29px;"><a href="http://homepages.inf.ed.ac.uk/s1151656/resources.html">link1</a></td>
+<td style="width: 29px;"><a href="http://homepages.inf.ed.ac.uk/s1151656/resources.html">link</a></td>
 </tr>
       <tr>
         <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Rel122.csv">Rel</a></td>
@@ -182,35 +182,35 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 29px;"><a href="http://www.cs.ucf.edu/~seansz/rel-122/">link</a></td>
 </tr>
   <tr>
-<td style="width: 55px;">Zie25</td>
+    <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Zie25_EN.csv">Zie25</a></td>
 <td style="width: 47px;">25</td>
 <td style="width: 32px;">2006</td>
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Ziegler2006">(Ziegler et al., 2006)</a></td>
-<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Zie25_EN.csv">link1</a><br><a href="http://www2.informatik.uni-freiburg.de/~cziegler/papers/CIKM-06-CR.pdf">link2</a></td>
+<td style="width: 29px;"><a href="http://www2.informatik.uni-freiburg.de/~cziegler/papers/CIKM-06-CR.pdf">link</a></td>
 </tr>
   <tr>
-<td style="width: 55px;">Zie30</td>
+    <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Zie30_EN.csv">Zie30</a></td>
 <td style="width: 47px;">30</td>
 <td style="width: 32px;">2006</td>
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Ziegler2006">(Ziegler et al., 2006)</a></td>
-<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Zie30_EN.csv">link1</a><br><a href="http://www2.informatik.uni-freiburg.de/~cziegler/papers/CIKM-06-CR.pdf">link2</a></td>
+<td style="width: 29px;"><a href="http://www2.informatik.uni-freiburg.de/~cziegler/papers/CIKM-06-CR.pdf">link</a></td>
 </tr>
   <tr>
-<td style="width: 55px;">GM</td>
+    <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/GM30_EN.csv">GM</a></td>
 <td style="width: 47px;">30</td>
 <td style="width: 32px;">2008</td>
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Gracia2008">(Gracia and Mena, 2008)</a></td>
-<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/GM30_EN.csv">link1</a><br><a href="https://pdfs.semanticscholar.org/ee98/00a1608a78a5a325af33c2b59747e9a40e00.pdf">link2</a></td>
+<td style="width: 29px;"><a href="https://pdfs.semanticscholar.org/ee98/00a1608a78a5a325af33c2b59747e9a40e00.pdf">link</a></td>
 </tr>
-<td style="width: 55px;">RareWords</td>
+      <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/RW2034.csv">RareWords</a></td>
 <td style="width: 47px;">2034</td>
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Luong2013">(Luong et al., 2013)</a></td>
-<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/RW2034.csv">link1</a><br><a href="http://www.bigdatalab.ac.cn/benchmark/bm/dd?data=Rare%20Word">link2</a><br><a href="https://nlp.stanford.edu/~lmthang/morphoNLM/">link3</a></td>
+<td style="width: 29px;"><a href="http://www.bigdatalab.ac.cn/benchmark/bm/dd?data=Rare%20Word">link1</a><br><a href="https://nlp.stanford.edu/~lmthang/morphoNLM/">link2</a></td>
 </tr>
      <tr>
 <td style="width: 55px;">YP_Verb</td>
