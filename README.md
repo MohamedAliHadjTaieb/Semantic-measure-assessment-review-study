@@ -16,28 +16,28 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 250px;" colspan="6" align="center"><b><i>Arabic (AR)</td>
 </tr>
 <tr>
-<td style="width: 55px;">Almarsoomi</td>
+  <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Similarity/Almarsoomi70.csv">Almarsoomi</a></td>
 <td style="width: 47px;">70</td>
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Almarsoomi2013">(Almarsoomi et al., 2013)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Similarity/Almarsoomi70.csv">link</a></td>
+  <td style="width: 29px;">link</td>
 </tr>
  <tr>
-<td style="width: 55px;">MC</td>
+   <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Similarity/MC30_AR.csv">MC</a></td>
 <td style="width: 47px;">30</td>
 <td style="width: 32px;">2009</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Hassan2009">(Hassan and Mihalcea, 2009)</a></td>
-  <td style="width: 29px;"><a href="http://web.eecs.umich.edu/~mihalcea/downloads.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Similarity/MC30_AR.csv">link2</a></td>
+  <td style="width: 29px;"><a href="http://web.eecs.umich.edu/~mihalcea/downloads.html">link</a></td>
 </tr>
 <tr>
-<td style="width: 55px;">SaifAr</td>
+  <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Relatedness/Saif40_Ar.csv">SaifAr</a></td>
 <td style="width: 47px;">40</td>
 <td style="width: 32px;">2014</td>
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Saif2014">(Saif et al., 2014)</a></td>
-  <td style="width: 29px;"><a href="https://www.researchgate.net/publication/272165853_Arabic_Semantic_relatedness_data_set">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Relatedness/Saif40_Ar.csv">link2</a></td>
+  <td style="width: 29px;"><a href="https://www.researchgate.net/publication/272165853_Arabic_Semantic_relatedness_data_set">link</a></td>
 </tr>
     <tr>
 <td style="width: 55px;">WordSim</td>
