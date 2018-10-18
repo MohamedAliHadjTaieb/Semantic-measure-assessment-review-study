@@ -63,123 +63,123 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 250px;" colspan="6" align="center"><b><i>Czech (CS)</td>
 </tr>
 <tr>
-<td style="width: 55px;">WordSim</td>
+  <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Czech/Semantic%20Relatedness/WordSim353_CS.csv">WordSim</a></td>
 <td style="width: 47px;">353</td>
 <td style="width: 32px;">2016</td>
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Cinkova2016">(Cinková, 2016)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Czech/Semantic%20Relatedness/WordSim353_CS.csv">link1</a><br><a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1713?show=full">link2</a></td>
+  <td style="width: 29px;"><a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1713?show=full">link</a></td>
 </tr>
     <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Dutch (NL)</td>
 </tr>
 <tr>
-<td style="width: 55px;">MC</td>
+  <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Similarity/MC30_NL.csv">MC</a></td>
 <td style="width: 47px;">30</td>
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Similarity/MC30_NL.csv">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-mc.dataset">link2</a></td>
+  <td style="width: 29px;"><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-mc.dataset">link</a></td>
 </tr>
     <tr>
-<td style="width: 55px;">RG</td>
+      <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Similarity/RG65_NL.csv">RG</a></td>
 <td style="width: 47px;">65</td>
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Similarity/RG65_NL.csv">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-rg.dataset">link2</a></td>
+  <td style="width: 29px;"><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-rg.dataset">link</a></td>
 </tr>
     <tr>
-<td style="width: 55px;">SimLex</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Similarity/SimLex999_NL.csv">SimLex</td>
 <td style="width: 47px;">999</td>
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Similarity/SimLex999_NL.csv">link1</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-simlex.dataset">link2</a></td>
+  <td style="width: 29px;"><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-simlex.dataset">link</a></td>
 </tr>
     <tr>
-<td style="width: 55px;">WordSim</td>
+      <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Relatedness/WordSim353_NL.csv">WordSim</a></td>
 <td style="width: 47px;">353</td>
 <td style="width: 32px;">2018</td>
 <td style="width: 34px;">Rel</td>
 <td style="width: 23px;"><a href="#Barzegar2018">(Barzegar et al., 2016)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Dutch/Semantic%20Relatedness/WordSim353_NL.csv">link</a><br><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-ws353.dataset">link2</a></td>
+  <td style="width: 29px;"><a href="https://github.com/Lambda-3/Gold-Standards/blob/master/SemR-11/Multilingual_Wordpairs/nl-ws353.dataset">link2</a></td>
 </tr>
 <td style="width: 55px;" colspan="6" align="center"><b><i>English (EN)</td>
 </tr>
 <tr>
-<td style="width: 55px;">RG</td>
+  <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/RG65.csv">RG</a></td>
 <td style="width: 47px;">65</td>
 <td style="width: 32px;">1965</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;">(Rubenstein and Goodenough, 1965)</td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/RG65.csv">link</a></td>
+  <td style="width: 29px;">link</td>
 </tr>
 <tr>
-<td style="width: 55px;">MC</td>
+  <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/MC30.csv">MC</a></td>
 <td style="width: 47px;">30</td>
 <td style="width: 32px;">1991</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;">(Miller and Charles, 1991)</td>
-<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/MC30.csv">link</a></td>
+<td style="width: 29px;">link</td>
 </tr>
   <tr>
-<td style="width: 55px;">Martinez&Aldana</td>
+    <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/Martinez%26Aldana_EN.csv">Martinez&Aldana</a></td>
 <td style="width: 47px;">28</td>
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">Sim</td>
     <td style="width: 23px;"><a href="#Martinez2013">(Martinez-Gil and Aldana-Montes, 2013)</a></td>
-<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/Martinez%26Aldana_EN.csv">link</a></td>
+<td style="width: 29px;">link</td>
 </tr>
   <tr>
-<td style="width: 55px;">SimLex</td>
+    <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SimLex999_EN.csv">SimLex</a></td>
 <td style="width: 47px;">999</td>
 <td style="width: 32px;">2015</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"> (Hill et al., 2015)</td>
-<td style="width: 29px;"><a href="https://fh295.github.io//simlex.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SimLex999_EN.csv">link2</a></td>
+<td style="width: 29px;"><a href="https://fh295.github.io//simlex.html">link</a></td>
 </tr>
 <tr>
-<td style="width: 55px;">WP</td>
+  <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/WP300.csv">WP</a></td>
 <td style="width: 47px;">300</td>
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Li2013"> (Li et al., 2013)</a></td>
-<td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/WP300.csv">link</a></td>
+<td style="width: 29px;">link</td>
 </tr>
 <tr>
-<td style="width: 55px;">MTurk</td>
+  <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/MT287.csv">MTurk</a></td>
 <td style="width: 47px;">287</td>
 <td style="width: 32px;">2011</td>
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Radinsky2011">(Radinsky et al., 2011)</a></td>
-<td style="width: 29px;"><a href="https://github.com/mfaruqui/word-vector-demo/blob/master/data/EN-MTurk-287.txt">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/MT287.csv">link2</a></td>
+<td style="width: 29px;"><a href="https://github.com/mfaruqui/word-vector-demo/blob/master/data/EN-MTurk-287.txt">link</a></td>
 </tr>
   <tr>
     <tr>
-<td style="width: 55px;">MTurk</td>
+      <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/MT771.csv">MTurk</a></td>
 <td style="width: 47px;">771</td>
 <td style="width: 32px;">2012</td>
 <td style="width: 34px;">Rel</td>
 <td style="width: 23px;">(Halawi et al., 2012)</td>
-<td style="width: 29px;"><a href="https://github.com/mfaruqui/word-vector-demo/blob/master/data/EN-MTurk-771.txt">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/MT771.csv">link2</a></td>
+<td style="width: 29px;"><a href="https://github.com/mfaruqui/word-vector-demo/blob/master/data/EN-MTurk-771.txt">link</a></td>
 </tr>
   <tr>
     <tr>
-<td style="width: 55px;">SL</td>
+      <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SL7576_EN.csv">SL</a></td>
 <td style="width: 47px;">7576</td>
 <td style="width: 32px;">2014</td>
 <td style="width: 34px;">sim</td>
       <td style="width: 23px;"><a href="#Silberer2014">(Silberer and Lapata, 2014)</a></td>
-<td style="width: 29px;"><a href="http://homepages.inf.ed.ac.uk/s1151656/resources.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/SL7576_EN.csv">link2</a></td>
+<td style="width: 29px;"><a href="http://homepages.inf.ed.ac.uk/s1151656/resources.html">link1</a></td>
 </tr>
       <tr>
-<td style="width: 55px;">Rel</td>
+        <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Rel122.csv">Rel</a></td>
 <td style="width: 47px;">122</td>
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">rel</td>
       <td style="width: 23px;"><a href="#Szumlanski2013">(Szumlanski et al., 2013)</a></td>
-<td style="width: 29px;"><a href="http://www.cs.ucf.edu/~seansz/rel-122/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Relatedness/Rel122.csv">link2</a></td>
+<td style="width: 29px;"><a href="http://www.cs.ucf.edu/~seansz/rel-122/">link</a></td>
 </tr>
   <tr>
 <td style="width: 55px;">Zie25</td>
