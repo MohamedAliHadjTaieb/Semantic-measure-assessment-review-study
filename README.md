@@ -248,23 +248,23 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
 <td style="width: 55px;" colspan="6" align="center"><b><i>French (FR)</td>
 </tr>
   <tr>
-<td style="width: 55px;">RG</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/French/Semantic%20Similarity/RG65_FR.csv">RG</a></td>
 <td style="width: 47px;">65</td>
 <td style="width: 32px;">2011</td>
 <td style="width: 34px;">Sim</td>
     <td style="width: 23px;"><a href="#Joubarne2011">(Joubarne and Inkpen, 2011)</a></td>
-    <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/French/Semantic%20Similarity/RG65_FR.csv">link1</a><br><a href="http://www.site.uottawa.ca/~mjoub063/wordsims.htm">link2</a></td>
+    <td style="width: 29px;">link1<br><a href="http://www.site.uottawa.ca/~mjoub063/wordsims.htm">link2</a></td>
 </tr>
 <tr>
 <td style="width: 55px;" colspan="6" align="center"><b><i>German (DE)</td>
 </tr>
   <tr>
-<td style="width: 55px;">Gur</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Similarity/Gur65_DE.csv">Gur</a></td>
 <td style="width: 47px;">65</td>
 <td style="width: 32px;">2005</td>
 <td style="width: 34px;">Sim</td>
     <td style="width: 23px;"><a href="#Gurevych2005">(Gurevych, 2005)</a></td>
-    <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Similarity/Gur65_DE.csv">link2</a></td>
+    <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br>link2</td>
 </tr>
   <tr>
 <td style="width: 55px;">AG</td>
@@ -299,23 +299,23 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
     <td style="width: 29px;"><a href="http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1828986623F193B618ED82F0B18B44AD?doi=10.1.1.551.5728&rep=rep1&type=pdf">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/Cramer100_DE.csv">link2</a></td>
 </tr>
   <tr>
-<td style="width: 55px;">WordSim</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/WordSim252_DE.csv">WordSim</a></td>
 <td style="width: 47px;">252</td>
 <td style="width: 32px;">2005</td>
 <td style="width: 34px;">Rel</td>
     <td style="width: 23px;"><a href="#Leviant2015">(Leviant and Reichart, 2015)</a></td>
-<td style="width: 29px;"><a href="http://leviants.com/ira.leviant/MultilingualVSMdata.html">link1</a><br><a href="https://github.com/nmrksic/eval-multilingual-simlex/blob/master/evaluation/ws-353/wordsim353-english-rel.txt">link2</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/WordSim252_DE.csv">link3</a></td>
+<td style="width: 29px;"><a href="http://leviants.com/ira.leviant/MultilingualVSMdata.html">link1</a><br><a href="https://github.com/nmrksic/eval-multilingual-simlex/blob/master/evaluation/ws-353/wordsim353-english-rel.txt">link2</a><br>link3</td>
 </tr>
    <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Hindi</td>
 </tr>
 <tr>
-<td style="width: 55px;">Gujarati-WS-Indian</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Gujarati-WS-Indian163.csv">Gujarati-WS-Indian</a></td>
 <td style="width: 47px;">163</td>
 <td style="width: 32px;">2017</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Akhtar2017">(Akhtar et al., 2017)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Gujarati-WS-Indian163.csv">link</a></td>
+  <td style="width: 29px;">link</td>
 </tr>
     <tr>
 <td style="width: 55px;">Punjabi-WS-Indian</td>
