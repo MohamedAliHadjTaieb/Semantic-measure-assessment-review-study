@@ -283,20 +283,20 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
     <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/Gur350_DE.csv">link2</a></td>
 </tr>
     <tr>
-<td style="width: 55px;">ZG</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/ZG222_DE.csv">ZG</a></td>
 <td style="width: 47px;">222</td>
 <td style="width: 32px;">2006</td>
 <td style="width: 34px;">Rel</td>
       <td style="width: 23px;"><a href="#Zesch2006">(Zesch and Gurevych, 2006)</a></td>
-    <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/ZG222_DE.csv">link2</a></td>
+    <td style="width: 29px;"><a href="https://www.informatik.tu-darmstadt.de/ukp/research_6/data/semantic_relatedness/german_relatedness_datasets/index.en.jsp">link1</a><br>link2</td>
 </tr>
     <tr>
-<td style="width: 55px;">Cramer</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/Cramer100_DE.csv">Cramer</a></td>
 <td style="width: 47px;">100</td>
 <td style="width: 32px;">2008</td>
 <td style="width: 34px;">Rel</td>
       <td style="width: 23px;"><a href="#Cramer2008">(Cramer and Finthammer, 2008)</a></td>
-    <td style="width: 29px;"><a href="http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1828986623F193B618ED82F0B18B44AD?doi=10.1.1.551.5728&rep=rep1&type=pdf">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/Cramer100_DE.csv">link2</a></td>
+    <td style="width: 29px;"><a href="http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1828986623F193B618ED82F0B18B44AD?doi=10.1.1.551.5728&rep=rep1&type=pdf">link1</a><br>link2</td>
 </tr>
   <tr>
 <td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/German/Semantic%20Relatedness/WordSim252_DE.csv">WordSim</a></td>
@@ -318,47 +318,47 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 29px;">link</td>
 </tr>
     <tr>
-<td style="width: 55px;">Punjabi-WS-Indian</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Punjabi-WS-Indian143.csv">Punjabi-WS-Indian</a></td>
 <td style="width: 47px;">143</td>
 <td style="width: 32px;">2017</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Akhtar2017">(Akhtar et al., 2017)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Punjabi-WS-Indian143.csv">link</a></td>
+  <td style="width: 29px;">link</td>
 </tr>
     <tr>
-<td style="width: 55px;">Tamil-WS-Indian</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Tamil-WS-Indian97.csv">Tamil-WS-Indian</a></td>
 <td style="width: 47px;">97</td>
 <td style="width: 32px;">2017</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Akhtar2017">(Akhtar et al., 2017)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Tamil-WS-Indian97.csv">link</a></td>
+  <td style="width: 29px;">link</td>
 </tr>
     <tr>
-<td style="width: 55px;">Telugu-WS-Indian</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Telugu-WS-Indian111.csv">Telugu-WS-Indian</a></td>
 <td style="width: 47px;">111</td>
 <td style="width: 32px;">2017</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Akhtar2017">(Akhtar et al., 2017)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Telugu-WS-Indian111.csv">link</a></td>
+  <td style="width: 29px;">link</td>
 </tr>
     <tr>
-<td style="width: 55px;">Urdu-WS-Indian</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Urdu-WS-Indian100.csv">Urdu-WS-Indian</a></td>
 <td style="width: 47px;">100</td>
 <td style="width: 32px;">2017</td>
 <td style="width: 34px;">Sim</td>
 <td style="width: 23px;"><a href="#Akhtar2017">(Akhtar et al., 2017)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hindi/Semantic%20Similarity/Urdu-WS-Indian100.csv">link</a></td>
+  <td style="width: 29px;">link</td>
 </tr>
      <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Hungarian (HU)</td>
 </tr>
 <tr>
-<td style="width: 55px;">MC</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hungarian/Semantic%20Similarity/MC31_HU.csv">MC</a></td>
 <td style="width: 47px;">31</td>
 <td style="width: 32px;">2013</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Agoston">(Ágoston Tóth, 2013)</a></td>
-  <td style="width: 29px;"><a href="http://theroundtable.partium.ro/Current/Language/How%20Similar%20Word%20Similarity%20Judgments%20in%20English%20and%20Hungarian.pdf">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Hungarian/Semantic%20Similarity/MC31_HU.csv">link2</a></td>
+  <td style="width: 29px;"><a href="http://theroundtable.partium.ro/Current/Language/How%20Similar%20Word%20Similarity%20Judgments%20in%20English%20and%20Hungarian.pdf">link1</a><br>link2</td>
 </tr>
      <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Italian (IT)</td>
@@ -421,12 +421,12 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 250px;" colspan="6" align="center"><b><i>Portuguese (PT)</td>
 </tr>
 <tr>
-<td style="width: 55px;">RG</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Portuguese/Semantic%20Similarity/RG65_PT.csv">RG</a></td>
 <td style="width: 47px;">65</td>
 <td style="width: 32px;">2014</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Granada2014">(Granada et al., 2014)</a></td>
-  <td style="width: 29px;"><a href="http://www.inf.pucrs.br/linatural/wordpress/index.php/recursos-e-ferramentas/lista-de-pares-de-palavras/">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Portuguese/Semantic%20Similarity/RG65_PT.csv">link2</a></td>
+  <td style="width: 29px;"><a href="http://www.inf.pucrs.br/linatural/wordpress/index.php/recursos-e-ferramentas/lista-de-pares-de-palavras/">link1</a><br>link2</td>
 </tr>
     <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Romanian (RO)</td>
