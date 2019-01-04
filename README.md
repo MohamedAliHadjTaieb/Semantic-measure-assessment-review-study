@@ -40,23 +40,23 @@ This folder conatins the datasets exploited for assessing the semantic simialrit
   <td style="width: 29px;"><a href="https://www.researchgate.net/publication/272165853_Arabic_Semantic_relatedness_data_set">link</a></td>
 </tr>
     <tr>
-<td style="width: 55px;">WordSim</td>
+<td style="width: 55px;"><a href="http://web.eecs.umich.edu/~mihalcea/downloads.html">WordSim</a></td>
 <td style="width: 47px;">352</td>
 <td style="width: 32px;">2009</td>
 <td style="width: 34px;">Rel</td>
   <td style="width: 23px;"><a href="#Hassan2009">(Hassan and Mihalcea, 2009)</a></td>
-  <td style="width: 29px;"><a href="http://web.eecs.umich.edu/~mihalcea/downloads.html">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Relatedness/WordSim352_AR.csv">link2</a></td>
+  <td style="width: 29px;">link1</a><br><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Arabic/Semantic%20Relatedness/WordSim352_AR.csv">link2</td>
 </tr>
     <tr>
   <td style="width: 250px;" colspan="6" align="center"><b><i>Chinese (CN)</td>
 </tr>
 <tr>
-<td style="width: 55px;">PKU</td>
+<td style="width: 55px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Chinese/Semantic%20Similarity/PKU500_CN.csv">PKU</a></td>
 <td style="width: 47px;">500</td>
 <td style="width: 32px;">2016</td>
 <td style="width: 34px;">Sim</td>
   <td style="width: 23px;"><a href="#Wu2016">(Wu and Li, 2016)</a></td>
-  <td style="width: 29px;"><a href="https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/Chinese/Semantic%20Similarity/PKU500_CN.csv">link1</a><br><a href="https://github.com/commonsense/conceptnet5/blob/master/conceptnet5/support_data/pku-500/pku-500.csv">link2</a></td>
+  <td style="width: 29px;">link1<br><a href="https://github.com/commonsense/conceptnet5/blob/master/conceptnet5/support_data/pku-500/pku-500.csv">link2</a></td>
 </tr>
 <tr>
   <tr>
