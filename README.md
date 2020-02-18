@@ -1,5 +1,8 @@
 # Semantic-measure-assessment-review-study
 This project aims to study the asssessment protocol of the measures of the semantic distance between words and concepts.
+If you find this helpful, please consider citing:
+> Hadj Taieb, M.A., Zesch, T. & Ben Aouicha, M. A survey of semantic relatedness evaluation datasets and procedures. Artif Intell Rev (2019). https://doi.org/10.1007/s10462-019-09796-3
+
 # Datasets
 This folder conatins the datasets exploited for assessing the semantic simialrity/relatedness measures for different langauges.
 <table>
